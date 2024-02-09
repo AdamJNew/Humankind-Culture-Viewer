@@ -28,8 +28,8 @@ function displayData(data) {
                 <h3>${row['Culture Name']}</h3>
                 <p><strong>Affinity:</strong> <br><img src="${row['Affinity Image']}" alt="Affinity" style="height: 30px;width: 30px"> ${row['Affinity']}</p>
                 <p><strong>Trait Effect:</strong> <br><img src="${row['Trait Effect Image']}" alt="Trait Effect" style="height: 20px;"> <br>${row['Trait Effect']}</p>
-                <p><strong>Emblematic District:</strong> <br>(${row['Emblematic District Name']})<br><img src="${row['Emblematic District Image']}" alt="Emblematic District" style="height: 30px;width: 30px"> <br>${row['Emblematic District']}</p>
-                <p><strong>Emblematic Unit:</strong> <br>(${row['Emblematic Unit Name']})<br><img src="${row['Emblematic Unit Image']}" alt="Emblematic Unit" style="height: 20px;"> <br>${row['Emblematic Unit']}</p>
+                <p><strong>Emblematic District:</strong> <br><strong>${row['Emblematic District Name']}</strong><br><img src="${row['Emblematic District Image']}" alt="Emblematic District" style="height: 30px;width: 30px"> <br>${row['Emblematic District']}</p>
+                <p><strong>Emblematic Unit:</strong> <br><strong>${row['Emblematic Unit Name']}</strong><br><img src="${row['Emblematic Unit Image']}" alt="Emblematic Unit" style="height: 20px;"> <br>${row['Emblematic Unit']}</p>
             `;
             contentDiv.appendChild(card);
         }
