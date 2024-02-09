@@ -42,7 +42,8 @@ header {
 #content {
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-between; /* Adjust alignment as needed */
+	justify-content: flex-start; /* Align cards to the left */
+    margin-left: -20px; /* Counteract margin-right on cards to prevent overflow */
 }
 
 .card {
