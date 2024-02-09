@@ -1,12 +1,12 @@
 Culture Name,Affinity Image,Affinity,Trait Effect Image,Trait Effect,Emblematic District Image,Emblamtic District Name,Emblematic District,Emblematic Unit Image,Emblematic Unit Name,Emblematic Unit
-Assyrians,affinity1.jpg,Expansionist,trait2.jpg,"+1 Land Movement Speed on Unit
+Assyrians,\Images\Affinity\expansion_affinity.jpg,Expansionist,trait2.jpg,"+1 Land Movement Speed on Unit
 +5 Combat Strength bonus when ransacking on army
 +100% Ransack gains on Army",district1.jpg,Dunnu," +3 Influence
 +20 District Fortification
 +2 Combat strength in combat for Units in or adjacent to the district",unit1.jpg,Assyrian Raiders,"Close-Combat cavalry unit.
 Generates additional Money (+10% per ""Pillager"" Unit in the ransacking Army)
 when destroying an Outpost or Independent Camp."
-Babylonians,affinity2.jpg,Scientist,trait2.jpg,+1 Era available to research,district2.jpg,Astronomy House,"
+Babylonians,\Images\Affinity\scientist_affinity.jpg,Scientist,trait2.jpg,+1 Era available to research,district2.jpg,Astronomy House,"
 +1 Food and +1 Science per Researchers
 +3 Science per adjacent Farmers Quarters
 +1 Researchers slot on City or Outpost
