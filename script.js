@@ -27,7 +27,7 @@ function displayData(data) {
             card.innerHTML = `
                 <h3>${row['Culture Name']}</h3>
                 <p><strong>Affinity:</strong> <br><img src="${row['Affinity Image']}" alt="Affinity Image" style="height: 30px;width: 30px"> ${row['Affinity']}</p>
-                <p><strong>Trait Effect:</strong><br>${row['Trait Effect']}</p>
+                <p><strong>Trait Effect:</strong><br>${row['Trait Effect'].replace(/\n/g, '<br>')}</p>
                 <p><strong>Emblematic District:</strong><br><img src="${row['Emblematic District Image']}" alt="Emblematic District Image" style="height: 100px;width: 100px"><br><strong>${row['Emblematic District Name']}</strong><br>${row['Emblematic District'].replace(/\n/g, '<br>')}</p>
                 <p><strong>Emblematic Unit:</strong> <br><img src="${row['Emblematic Unit Image']}" alt="Emblematic Unit Image" style="height: 100px;width: 100px"><br><strong>${row['Emblematic Unit Name']}</strong> <br>${row['Emblematic Unit'].replace(/\n/g, '<br>')}</p>
             `;
