@@ -33,5 +33,5 @@ function displayData(data, era) {
             <img src="${row[2]}" alt="Image" style="max-height: 100px; object-fit: cover;">
             <div class="card-content">
                 <h3>${row[0]}</h3> <!-- Culture Name -->
-                <p><strong>Affinity:</strong> <img src="${row[3]}" alt="Affinity" style="height: 20px;"> ${row[1]}</p>
-               
+                <p><strong>Affinity:</strong> <img src="${row[3]}" alt="Affinity" style="height: 20px;"> ${row[1]}</p>`
+	}
