@@ -1,6 +1,6 @@
 ---
 name: Incorrect Information Report
-about: Describe this issue template's purpose here.
+about: Report incorrect or missing information using this template
 title: ''
 labels: ''
 assignees: AdamJNew
