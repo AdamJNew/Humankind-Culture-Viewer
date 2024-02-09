@@ -47,8 +47,8 @@ header {
 }
 
 .card {
-    width: calc(50% - 30px); /* Adjusted width to compensate for increased gap */
-    background-color: #333; /* Dark grey */
+    width: calc(50% - 20px); /* Adjusted width to compensate for increased gap */
+    background-color: #444;
     color: #fff; /* White text */
     padding: 20px;
     margin-right: 30px; /* Add more space between cards */
