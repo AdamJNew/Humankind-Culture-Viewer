@@ -7,10 +7,34 @@ Achaemenid Persians,/Humankind-Culture-Viewer/Images/Affinity/expansion_affinity
 +1 Traders Slot on City or Outpost",/Humankind-Culture-Viewer/Images/Emblematic Units/Classical/achaemenid-persians_unit.png,Immortals,"Anti-Cavalry Close-combat Unit
 Receives bonus Combat Strength (+8) when fighting mounted enemies
 Stronger (+3) when fighting from high ground and fortified position"
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
+Aksumites,/Humankind-Culture-Viewer/Images/Affinity/merchant_affinity.png,Merchant,+2 Money on Tile producing Money,/Humankind-Culture-Viewer/Images/Emblematic District/Classical/aksumites_district.png,Great Obelisk,"+1 Money per Territories under the Religion's influence
++3 Faith
++3 Money
+-10 Stability
++3 Money per adjacent Market Quarter
++1 Traders Slot on City or Outpost",/Humankind-Culture-Viewer/Images/Emblematic Units/Classical/aksumites_unit.png,Shotelai,"Close-combat Unit
+Has a larger zone of control (2 tiles) which cannot be ignored"
+Carthaginians,/Humankind-Culture-Viewer/Images/Affinity/merchant_affinity.png,Merchant,-25% on all Constructibles  Buyout cost,/Humankind-Culture-Viewer/Images/Emblematic District/Classical/carthaginians_district.png,Cothon,"+10 District Fortification
+-10 Stability
++3 Industry per adjacent Coastal Water
++2 Industry per adjacent Lake
++1 Workers Slot on City or Outpost",/Humankind-Culture-Viewer/Images/Emblematic Units/Classical/carthaginians_unit.png,War Elephant,"Heavy Cavalry
+Fast, hard-hitting mounted Unit able to charge enemies
+Receives bonus Combat Strength (+3) if attacking non-adjacent enemies
+Unable to climb Fortifications
+Stronger (+4) when attacking weaker Units"
+Celts,/Humankind-Culture-Viewer/Images/Affinity/agrarian_affinity.png,Agrarian,+3 Food per Farmers on City or Outpost,/Humankind-Culture-Viewer/Images/Emblematic District/Classical/celts_district.png,Nemeton,"+3 Food per number of attached Territories
++3 Faith
+-10 Stability
++3 Food per adjacent Farmers Quarter",/Humankind-Culture-Viewer/Images/Emblematic Units/Classical/celts_unit.png,Gaesati,"Melee Close-combat Unit
+No Combat Strength penalty from damage"
+Garamantes (DLC),/Humankind-Culture-Viewer/Images/Affinity/agrarian_affinity.png,Agrarian,+5 Influence on Main Plaza if the City is Growing,/Humankind-Culture-Viewer/Images/Emblematic District/Classical/garamantes_district.png,Foggara,"+3 Food
+-10 Stability
++2 Food per adjacent Sterile Terrain, Rocky or Stone Field
++1 Food on Exploitation",/Humankind-Culture-Viewer/Images/Emblematic Units/Classical/garamantes_unit.png,Javelin Riders,"Ranged-combat Unit
+Less effective when it can't see its target
+Receives a penalty (-8) when defending against close-combat attacks
+Can move one tile for free after attacking"
 ,,,,,,,,,
 ,,,,,,,,,
 ,,,,,,,,,
