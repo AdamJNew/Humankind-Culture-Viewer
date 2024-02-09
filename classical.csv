@@ -1,0 +1,22 @@
+Culture Name,Affinity Image,Affinity,Trait Effect,Emblematic District Image,Emblematic District Name,Emblematic District,Emblematic Unit Image,Emblematic Unit Name,Emblematic Unit
+Achaemenid Persians,/Humankind-Culture-Viewer/Images/Affinity/expansion_affinity.png,Expansionist,"+2 City Cap
++10 Stability on City or Outpost",/Humankind-Culture-Viewer/Images/Emblematic District/Classical/achaemenid-persians_district.png,Satrap Palace,"+1 Influence
++5 Money
+-10 Stability
++2 Influence per adjacent District
++1 Traders Slot on City or Outpost",/Humankind-Culture-Viewer/Images/Emblematic Units/Classical/achaemenid-persians_unit.png,Immortals,"Anti-Cavalry Close-combat Unit
+Receives bonus Combat Strength (+8) when fighting mounted enemies
+Stronger (+3) when fighting from high ground and fortified position"
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
