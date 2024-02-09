@@ -1,0 +1,74 @@
+Culture Name,Affinity Image,Affinity,Trait Effect,Emblematic District Image,Emblematic District Name,Emblematic District,Emblematic Unit Image,Emblematic Unit Name,Emblematic Unit
+Aztecs,/Humankind-Culture-Viewer/Images/Affinity/militarist_affinity.png,Militarist,"+2 Land Movement Speed on Unit
+-20% on Unit Industry cost",/Humankind-Culture-Viewer/Images/Emblematic District/Meieval/aztecs_district.png,Sacrificial Altar,"+5 Faith
++10 Stability
++2 Influence from adjacent District",/Humankind-Culture-Viewer/Images/Emblematic Units/Medieval/aztecs_unit.png,Jaguar Warriors,"Melee Close-combat Unit
+No Combat Strength penalty from damage"
+Bulgarians (DLC),/Humankind-Culture-Viewer/Images/Affinity/diplomatic_affinity.png,Diplomatic,+5 Leverage against the defeated Empire in Battle won without losing Units,/Humankind-Culture-Viewer/Images/Emblematic District/Medieval/bulgarians_district.png,Knyaz Library,"+3 Faith
++3 Science
++6 Influence when a Leverage Intel is collected
++1 Stability per Territory following your State Religion
++2 Turns before being converted by other's Religion on Territories",/Humankind-Culture-Viewer/Images/Emblematic Units/Medieval/bulgarians_unit.png,Bagaturi,"Ranged-combat Unit
+Less effective when it can't see its target
+Receives a penalty (-8) when defending against close-combat attacks
+Combat Strength bonus (+?) after performing a ransack"
+Byzantines,/Humankind-Culture-Viewer/Images/Affinity/merchant_affinity.png,Merchant,+5% Money per Alliance on all Cities,/Humankind-Culture-Viewer/Images/Emblematic District/Medieval/byzantines_district.png,Hippodromos,"+2 Money per  (including those bought from others)
++4 Money
++25 Money per adjacent Horse deposit
++1 Traders Slot on City or Outpost
+-10 Stability",/Humankind-Culture-Viewer/Images/Emblematic Units/Medieval/byzantines_unit.png,Varangian Guards,"Melee Close-combat Unit
+Prevents its Army from retreating"
+English,/Humankind-Culture-Viewer/Images/Affinity/agrarian_affinity.png,Agrarian,+7 Food per number of attached Territories on City or Outpost,/Humankind-Culture-Viewer/Images/Emblematic District/Medieval/english_district.png,Stronghold,"+5 Stability
++20 District Fortification
++3 Combat Strength in combat for Units in or adjacent to the District
+Increase the range by 2 for Ranged Units standing on it",/Humankind-Culture-Viewer/Images/Emblematic Units/Medieval/english_unit.png,Longbowmen,"Ranged-combat Unit
+Less effective when it can't see its target
+Receives a penalty (-8) when defending against close-combat attacks
+Unit can attack Units without a clear Line of Sight."
+Franks,/Humankind-Culture-Viewer/Images/Affinity/aesthete_affinity.png,Aesthete,+10% Influence,/Humankind-Culture-Viewer/Images/Emblematic District/Medieval/franks_district.png,Scriptorium,"+3 Faith
+-10 Stability
++5 Science
++2 Influence per adjacent Research Quarter
++1 Researchers Slot on City or Outpost",/Humankind-Culture-Viewer/Images/Emblematic Units/Medieval/franks_unit.png,Franci Milites,"Heavy Cavalry
+Fast, hard-hitting mounted Unit able to charge enemies
+Receives bonus Combat Strength (+3) if attacking non-adjacent enemies
+Unable to climb Fortifications.
+Receives a higher Combat Strength bonus (+5) when charging"
+Ghanaians,/Humankind-Culture-Viewer/Images/Affinity/merchant_affinity.png,Merchant,"+2 Money per Number of accesses to Luxury Resources.
++1 Money per Number of accesses to Strategic Resources.",/Humankind-Culture-Viewer/Images/Emblematic District/Medieval/ghanaians_district.png,Luxuries Market,"+1 Money per Number of Trade Routes
++5 Money
+-10 Stability
++3 Money per adjacent Market Quarter
++1 Traders Slot on City or Outpost",/Humankind-Culture-Viewer/Images/Emblematic Units/Medieval/ghanaians_unit.png,Meharists,"Cavalry Close-combat Unit that ignores enemy zones of control
+Particularly good for running down Ranged Units
+Unable to climb Fortifications
+Bonus Combat Strength (+8) when fighting mounted Units"
+Khmer,/Humankind-Culture-Viewer/Images/Affinity/builder_affinity.png,Builder,+3 Industry on Makers Quarter,/Humankind-Culture-Viewer/Images/Emblematic District/Medieval/khmer_district.png,Baray,"+5 Food
+-10 Stability
++4 Industry per adjacent River
++1 Workers Slot on City or Outpost",/Humankind-Culture-Viewer/Images/Emblematic Units/Medieval/khmer_unit.png,Dhanv?-gaja,"Ranged-combat Unit
+Less effective when it can't see its target
+Receives a penalty (-8) when defending against close-combat attacks
+Ignores penalties from fighting in melee"
+Mississippians,/Humankind-Culture-Viewer/Images/Affinity/builder_affinity.png,Builder,"+3 Industry on Industry-producing Districts built on a River
++3 Money on Money-producing Districts built on a River
++3 Food on Food-producing Districts built on a River",/Humankind-Culture-Viewer/Images/Emblematic District/Medieval/mississippians_district.png,Sacred Mound,"-50% Industry cost reduction of adjacent Districts
+-10 Stability
++3 Industry on Religious District
++3 Faith on Religious District
++2 Money per adjacent District",/Humankind-Culture-Viewer/Images/Emblematic Units/Medieval/mississippians_unit.png,Cahokia Raiders,"Melee Close-combat Unit
+Each enemy Unit destroyed in battle increases this Unit's Ardor Combat Strength bonus (+2 per kill)
+The Ardor bonus lasts until the battle is over or this Unit is destroyed"
+Mongols,/Humankind-Culture-Viewer/Images/Affinity/militarist_affinity.png,Militarist,"+100% ransack gains on Army
+-25% on Vassalize cost
+Cannot evolve Outposts into Cities during this Era",/Humankind-Culture-Viewer/Images/Emblematic District/Medieval/mongols_district.png,Orda,"Automatically upgrades regular Outpost
+They cannot be attached to Cities in this Era.",/Humankind-Culture-Viewer/Images/Emblematic Units/Medieval/mongols_unit.png,Mongol Horde,"Nomad Special Unit that gathers Food through fighting and ransacking in order to multiply
+Unable to climb Fortifications
+Cannot be added to a regular Army
+Can move until all Movement Points are depleted, ignoring zones of control"
+Norsemen,/Humankind-Culture-Viewer/Images/Affinity/militarist_affinity.png,Militarist,,,,,,,
+Rapa Nui (DLC),/Humankind-Culture-Viewer/Images/Affinity/builder_affinity.png,Builder,,,,,,,
+Swahili (DLC),/Humankind-Culture-Viewer/Images/Affinity/merchant_affinity.png,Merchant,,,,,,,
+Taino (DLC),/Humankind-Culture-Viewer/Images/Affinity/agrarian_affinity.png,Agrarian,,,,,,,
+Teutons,/Humankind-Culture-Viewer/Images/Affinity/expansion_affinity.png,Expansionist,,,,,,,
+Umayyads,/Humankind-Culture-Viewer/Images/Affinity/scientist_affinity.png,Scientist,,,,,,,
