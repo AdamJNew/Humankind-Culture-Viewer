@@ -39,6 +39,14 @@ header {
 	color: #fff; /* White text */
 }
 
+#extrainfo {
+    display: flex;
+	padding: 10px;
+    justify-content: center;
+    text-decoration: none;
+	color: #fff; /* White text */
+}
+
 #content {
     display: flex;
     flex-wrap: wrap;
