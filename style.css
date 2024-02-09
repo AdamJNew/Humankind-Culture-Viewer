@@ -86,14 +86,15 @@ header {
     margin-left: 0;
 }
 .disclaimer {
-            position: absolute;
+            position: sticky;
             bottom: 0;
             width: 100%;
             background-color: #000;
             color: #fff;
             padding: 10px;
             text-align: center;
-        }
+            z-index: 999; /* Ensure the disclaimer appears above other content */
+}
 
 @media (max-width: 600px) {
     header {
