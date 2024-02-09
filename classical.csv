@@ -3,11 +3,11 @@ Assyrians,/HumanKind-Culture-Viewer/Images/Affinity/expansion_affinity.png,Expan
 +5 Combat Strength bonus when ransacking on army
 +100% Ransack gains on Army",/HumanKind-Culture-Viewer/Images/Emblematic District/Ancient/assyrian_district.png,Dunnu," +3 Influence
 +20 District Fortification
-+2 Combat strength in combat for Units in or adjacent to the district",unit1.jpg,Assyrian Raiders,"Close-Combat cavalry unit
++2 Combat strength in combat for Units in or adjacent to the district",/HumanKind-Culture-Viewer/Images/Emblematic Units/Ancient/assyrians_unit.png,Assyrian Raiders,"Close-Combat cavalry unit
 Generates additional Money (+10% per ""Pillager"" Unit in the ransacking Army)
 when destroying an Outpost or Independent Camp."
 Babylonians,/HumanKind-Culture-Viewer/Images/Affinity/scientist_affinity.png,Scientist,trait2.jpg,+1 Era available to research,/HumanKind-Culture-Viewer/Images/Emblematic District/Ancient/babylonians_district.png,Astronomy House,"+1 Food and +1 Science per Researchers
 +3 Science per adjacent Farmers Quarters
 +1 Researchers slot on City or Outpost
--10 Stability",unit2.jpg,Sabu Sa Qasti,"Close-combat Anti-Cavalry Unit
+-10 Stability",/HumanKind-Culture-Viewer/Images/Emblematic Units/Ancient/babylonians_unit.png,Sabu Sa Qasti,"Close-combat Anti-Cavalry Unit
 Receives bonus Combat Strength (+8) when fighting mounted enemies."
