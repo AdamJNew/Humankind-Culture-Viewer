@@ -42,34 +42,29 @@ header {
 #content {
     display: flex;
     flex-wrap: wrap;
-	justify-content: flex-start; /* Align cards to the left */
-    margin-left: 10px; /* Counteract margin-right on cards to prevent overflow */
+    justify-content: flex-start; /* Align cards to the left */
+    margin-left: 10px; /* Add some margin to the left side of the content container */
 }
 
 .card {
-    width: 300px; /* Adjust the width as needed */
+    width: calc(50% - 30px); /* Adjusted width to compensate for increased gap */
     background-color: #333; /* Dark grey */
     color: #fff; /* White text */
     padding: 20px;
-	margin-right: 20px;
-    margin-bottom: 20px; /* Add some spacing between cards */
+    margin-right: 30px; /* Add more space between cards */
+    margin-bottom: 20px; /* Add space between rows */
     border-radius: 5px; /* Add rounded corners */
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Add a subtle shadow */
 }
 
-
-
-.card img {
-    width: 100%;
-    height: auto;
-}
-
-.card-content {
-    padding: 10px;
-}
-
 .card:last-child {
     margin-right: 0; /* Remove right margin from the last card in a row */
+}
+
+/* Remove padding from the first card */
+.card:first-child {
+    padding-left: 0;
+    margin-left: 0;
 }
 
 @media (max-width: 600px) {
