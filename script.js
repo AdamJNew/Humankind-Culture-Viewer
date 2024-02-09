@@ -10,7 +10,7 @@ document.addEventListener('DOMContentLoaded', function() {
 });
 
 async function loadTabData(era) {
-    const response = await fetch(`${era}.csv`);
+    const response = await fetch(`\Data\BaseGame\${era}.csv`);
     const csvText = await response.text();
     const data = Papa.parse(csvText, { header: true }).data;
     displayData(data);
