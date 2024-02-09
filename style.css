@@ -38,7 +38,14 @@ header {
     cursor: pointer;
 	color: #fff; /* White text */
 }
-
+#development {
+    display: flex;
+	padding: 10px;
+	background-color: #BC393B;
+    justify-content: center;
+    text-decoration: none;
+	color: #fff; /* White text */
+}
 #extrainfo {
     display: flex;
 	padding: 10px;
