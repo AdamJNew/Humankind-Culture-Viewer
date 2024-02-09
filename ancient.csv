@@ -1,7 +1,7 @@
 Culture Name,Affinity Image,Affinity,Trait Effect,Emblematic District Image,Emblematic District Name,Emblematic District,Emblematic Unit Image,Emblematic Unit Name,Emblematic Unit
-Assyrians,/HumanKind-Culture-Viewer/Images/Affinity/expansion_affinity.png,Expansionist,"+1 Land Movement Speed on Unit
-+5 Combat Strength bonus when ransacking on army
-+100% Ransack gains on Army",/HumanKind-Culture-Viewer/Images/Emblematic District/Ancient/assyrian_district.png,Dunnu," +3 Influence
+Assyrians,/HumanKind-Culture-Viewer/Images/Affinity/expansion_affinity.png,Expansionist,"+1 Land Movement Speed on Unit 
++5 Combat Strength bonus when ransacking on army 
++100% Ransack gains on Army ",/HumanKind-Culture-Viewer/Images/Emblematic District/Ancient/assyrian_district.png,Dunnu," +3 Influence
 +20 District Fortification
 +2 Combat strength in combat for Units in or adjacent to the district",/HumanKind-Culture-Viewer/Images/Emblematic Units/Ancient/assyrians_unit.png,Assyrian Raiders,"Close-Combat cavalry unit
 Generates additional Money (+10% per ""Pillager"" Unit in the ransacking Army)
