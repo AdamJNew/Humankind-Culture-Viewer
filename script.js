@@ -3,13 +3,7 @@
 document.addEventListener('DOMContentLoaded', function() {
     document.querySelectorAll('.tab').forEach(function(tab) {
         tab.addEventListener('click', function() {
-			// Remove active class from all tabs
-                tabs.forEach(function(tab) {
-                    tab.classList.remove('active-tab');
-                });
-                
-                // Add active class to the clicked tab
-                tab.classList.add('active-tab');
+
             loadTabData(tab.getAttribute('data-era'));
         });
     });

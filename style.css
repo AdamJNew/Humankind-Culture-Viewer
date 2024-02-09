@@ -86,7 +86,7 @@ header {
     margin-left: 0;
 }
 .disclaimer {
-            position: sticky;
+            position: fixed;
             bottom: 0;
             width: 100%;
             background-color: #000;
