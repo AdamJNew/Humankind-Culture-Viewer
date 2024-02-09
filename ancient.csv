@@ -22,3 +22,25 @@ Caralans (DLC),/Humankind-Culture-Viewer/Images/Affinity/builder_affinity.png,Bu
 -10 Stability
 +2 Faith per adjacent District",/Humankind-Culture-Viewer/Images/Emblematic Units/Ancient/caralans_unit.png,Healers,"Close-combat Unit
 Knowledge of beneficial plants provides Health Regeneration (+? Health per turn) outside of Friendly Territories to all Units in their Army"
+Egyptians,/Humankind-Culture-Viewer/Images/Affinity/builder_affinity.png,Builder,"+1 Industry on Tile producing Industry
+-10% on District Industry cost",/Humankind-Culture-Viewer/Images/Emblematic District/Ancient/egyptians_district.png,Egyptian Pyramid,"+1 Influence
++3 Industry
+-10 Stability
++2 Industry per adjacent Makers Quarter
++1 Workers Slot on City or Outpost",/Humankind-Culture-Viewer/Images/Emblematic Units/Ancient/egyptians_unit.png,Markabata,"Ranged-combat Unit
+Less effective when it can't see its target. Receives a penalty (-8) when defending against close-combat attacks."
+Harappans,/Humankind-Culture-Viewer/Images/Affinity/agrarian_affinity.png,Agrarian,"+1 Food on Dry Grass
++1 Food on River",/Humankind-Culture-Viewer/Images/Emblematic District/Ancient/harappans_district.png,Canal Network,"+3 Food
+-10 Stability
++2 Food per adjacent Farmers Quarter
++1 Farmers Slot on City or Outpost",/Humankind-Culture-Viewer/Images/Emblematic Units/Ancient/harappans_unit.png,Runner,"Close-combat Unit
+Ignores Movement penalties from Forests"
+Hittites,/Humankind-Culture-Viewer/Images/Affinity/militarist_affinity.png,Militarist,"+1 Combat Strength on Unit
++20 Food, Industry, Money and Science on each Owned City per Occupied City",/Humankind-Culture-Viewer/Images/Emblematic District/Ancient/hittites_district.png,Awari,"+3 Money
++10 District Fortification
+Automatically upgrades regular Outposts.
+Can be used as a Land Unit Spawn Point for neighbor Cities
++20 Health Regeneration on Unit in Territory",/Humankind-Culture-Viewer/Images/Emblematic Units/Ancient/hittites_unit.png,Gigir,"Heavy Cavalry
+Fast, hard-hitting mounted Unit able to charge enemies
+Receives bonus Combat Strength (+3) if attacking non-adjacent enemies
+Unable to climb Fortifications."
