@@ -35,12 +35,70 @@ Garamantes (DLC),/Humankind-Culture-Viewer/Images/Affinity/agrarian_affinity.png
 Less effective when it can't see its target
 Receives a penalty (-8) when defending against close-combat attacks
 Can move one tile for free after attacking"
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
-,,,,,,,,,
+Goths,/Humankind-Culture-Viewer/Images/Affinity/militarist_affinity.png,Militarist,"+10% Ransack Bounty gained as Science per Units on Army
++2 Influence on Garrison",/Humankind-Culture-Viewer/Images/Emblematic District/Classical/goths_district.png,Tumulus,"+3 Influence
++3 Faith
++2 Faith per adjacent District
++5% Ransack gains on Army",/Humankind-Culture-Viewer/Images/Emblematic Units/Classical/goths_unit.png,Gothic Cavalry,"Heavy Cavalry
+Fast, hard-hitting mounted Unit able to charge enemies
+Receives bonus Combat Strength (+3) if attacking non-adjacent enemies
+Unable to climb Fortifications
+Bonus Combat Strength (+3) when ransacking and fighting on enemy Districts"
+Greeks,/Humankind-Culture-Viewer/Images/Affinity/scientist_affinity.png,Scientist,+2 Science per Researchers on City or Outpost,/Humankind-Culture-Viewer/Images/Emblematic District/Classical/greeks_district.png,Amphitheatron,"+1 Influence per Era
++3 Science per Era
++2 Science per adjacent District
+-10 Stability",/Humankind-Culture-Viewer/Images/Emblematic Units/Classical/greeks_unit.png,Hoplites,"Anti-Cavalry Close-combat Unit
+Receives bonus Combat Strength (+8) when fighting mounted enemies
+Grants additional Combat Strength (+1) for each Unit with the Phalanx ability adjacent"
+Han (DLC),/Humankind-Culture-Viewer/Images/Affinity/diplomatic_affinity.png,Diplomatic,-20% on Leverage Actions cost,/Humankind-Culture-Viewer/Images/Emblematic District/Classical/han_district.png,Paper Mill,"Allows construction of new Districts on adjacent Tiles
+-10 Stability
++1 Science per researched technologies
+Creates a new Deposit of Paper which is automatically exploited
++10 Science when a Leverage Intel is collected per Paper
++2 Science per Paper",/Humankind-Culture-Viewer/Images/Emblematic Units/Classical/han_unit.png,Lian nu bing,"Ranged-combat Unit
+Less effective when it can't see its target
+Receives a penalty (-8) when defending against close-combat attacks
+Stronger Attacks (+8) after the Unit spends a Round defending."
+Huns,/Humankind-Culture-Viewer/Images/Affinity/militarist_affinity.png,Militarist,"+5 Science on Empire per Unit is in hostile Territory
++2 Combat Strength on Cavalry Unit
+Cannot evolve Outposts into Cities during this Era",/Humankind-Culture-Viewer/Images/Emblematic District/Classical/huns_district.png,Ordu,"Automatically upgrades regular Outpost
+They cannot be attached to Cities in this Era",/Humankind-Culture-Viewer/Images/Emblematic Units/Classical/hun_unit.png,Hunnic Horde,"Special Unit that gathers Food through fighting and ransacking in order to multiply
+Unable to climb Fortifications
+Cannot be added to a regular Army
+Can move until all Movement Points are depleted, ignoring zones of control"
+Mauryans,/Humankind-Culture-Viewer/Images/Affinity/aesthete_affinity.png,Aesthete,"+1 Influence on Emblematic District
+-10% on Attach Outpost cost",/Humankind-Culture-Viewer/Images/Emblematic District/Classical/mauryans_district.png,St?pa,"+1 Influence
++2 Faith
+-10 Stability
++3 Science
++2 Influence per adjacent District
++1 Researchers Slot on City or Outpost",/Humankind-Culture-Viewer/Images/Emblematic Units/Classical/mauryans_unit.png,Samnahya,"Ranged-combat Unit
+Less effective when it can't see its target
+Receives a penalty (-8) when defending against close-combat attacks
+Ignores penalties from fighting in melee"
+Maya,/Humankind-Culture-Viewer/Images/Affinity/builder_affinity.png,Builder,+2 Industry per Workers on City or Outpost,/Humankind-Culture-Viewer/Images/Emblematic District/Classical/maya_district.png,K'uh Nah,"+3 Industry per number of attached Territories
++2 Faith
+-10 Stability
++4 Industry per adjacent Makers Quarter
++1 Workers Slot on City or Outpost",/Humankind-Culture-Viewer/Images/Emblematic Units/Classical/maya_unit.png,Noble Javelineers,"Ranged-combat Unit
+Less effective when it can't see its target
+Receives a penalty (-8) when defending against close-combat attacks
+Applies a poisoned Status to the target, which reduces its Movement speed (-2 )and attack range (-1)"
+Nazca (DLC),/Humankind-Culture-Viewer/Images/Affinity/aesthete_affinity.png,Aesthete,+1 Bonus Emblematic District on Territories containing a Natural Wonder,/Humankind-Culture-Viewer/Images/Emblematic District/Classical/nazca_district.png,Nazca Lines,"+2 Influence on Emblematic District
++1 Faith on Emblematic District",/Humankind-Culture-Viewer/Images/Emblematic Units/Classical/nazca_unit.png,Headhunters,"Melee Close-combat Unit
+When this Unit destroys an enemy in battle, it inspires all its allies and provides them with an Ardor bonus (+2)"
+Polynesians (DLC),/Humankind-Culture-Viewer/Images/Affinity/expansion_affinity.png,Expansionist,"Units receive no damage from being Lost at Sea
+-50% maximum Movement Points for Lost at Sea Units
++1 Vision Range on Unit not Lost at Sea",/Humankind-Culture-Viewer/Images/Emblematic District/Classical/polynesians_district.png,Marae,"+3 Influence
+-15 Stability per adjacent District
+On Marae:
+     +1 Influence per Marae in your Empire
+     +2 Faith per Marae in your Empire",/Humankind-Culture-Viewer/Images/Emblematic Units/Classical/polynesians_unit.png,Faulua,"Boarding Vessel
+Cannot target Land Units
+The targeted Units also take damage when they next move. (Applies Boarded status to targets)
+Damaged (-35 Health per turn) by consecutive turns spent in deep water"
+Romans,/Humankind-Culture-Viewer/Images/Affinity/expansion_affinity.png,Expansionist,"+1 Unit slot available for each Army
++50% experience gain on Unit",/Humankind-Culture-Viewer/Images/Emblematic District/Classical/romans_district.png,Triumphal Arch,"+5 Influence
++5 Stability per adjacent District
++50 Fame if completed while the City is Victorious",/Humankind-Culture-Viewer/Images/Emblematic Units/Classical/romans_unit.png,Praetorian Guards,"Melee Close-combat Unit
+Grants bonus Combat Strength if at least one allied Unit is adjacent to this Unit's target"
