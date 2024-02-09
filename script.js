@@ -33,5 +33,12 @@ function displayData(data, era) {
             <img src="${row[2]}" alt="Image" style="max-height: 100px; object-fit: cover;">
             <div class="card-content">
                 <h3>${row[0]}</h3> <!-- Culture Name -->
-                <p><strong>Affinity:</strong> <img src="${row[3]}" alt="Affinity" style="height: 20px;"> ${row[1]}</p>`
-	}
+                <p><strong>Affinity:</strong> <img src="${row[3]}" alt="Affinity" style="height: 20px;"> ${row[1]}</p>
+<strong></strong><p><strong>Trait Effect:</strong> <img src="${row[5]}" alt="Trait Effect" style="height: 20px;"> ${row[4]}</p>
+                <p><strong>Emblematic District:</strong> <img src="${row[7]}" alt="Emblematic District" style="height: 20px;"> ${row[6]}</p>
+                <p><strong>Emblematic Unit:</strong> <img src="${row[9]}" alt="Emblematic Unit" style="height: 20px;"> ${row[8]}</p>
+            </div>
+        `;
+        contentDiv.appendChild(card);
+    });
+}
