@@ -30,9 +30,8 @@ function displayData(data) {
                 <p><strong>Trait Effect:</strong> <br><img src="${row['Trait Effect Image']}" alt="Trait Effect" style="height: 20px;"> <br>${row['Trait Effect']}</p>
                 <p><strong>Emblematic District:</strong><br><img src="${row['Emblematic District Image']}" alt="Emblematic District" style="height: 30px;width: 30px"><br><strong>${row['Emblematic District Name']}</strong><br>${row['Emblematic District']}</p>
                 <p><strong>Emblematic Unit:</strong> <br><img src="${row['Emblematic Unit Image']}" alt="Emblematic Unit" style="height: 20px;"><br><strong>${row['Emblematic Unit Name']}</strong> <br>${row['Emblematic Unit']}</p>
-			`;
+            `;
             contentDiv.appendChild(card);
         }
     });
 }
-
