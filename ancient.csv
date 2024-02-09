@@ -11,14 +11,14 @@ Babylonians,/HumanKind-Culture-Viewer/Images/Affinity/scientist_affinity.png,Sci
 +1 Researchers slot on City or Outpost
 -10 Stability",/HumanKind-Culture-Viewer/Images/Emblematic Units/Ancient/babylonians_unit.png,Sabu Sa Qasti,"Close-combat Anti-Cavalry Unit
 Receives bonus Combat Strength (+8) when fighting mounted enemies."
-Bantu (DLC),/HumanKind-Culture-Viewer/Images/Affinity/expansion_affinity.png,Expansionist,+2 Influence per number of adjacent Empires on Territory,/HumanKind-Culture-Viewer/Images/Emblematic District/Ancient/bantu_district.png,Mupíà Fields,"Automatically upgrades regular Outpost.
-+10Food on adjacent Cities",/HumanKind-Culture-Viewer/Images/Emblematic Units/Ancient/bantu_unit.png,Bagèndí Pioneers,"Special Unit that gathers Food through fighting and ransacking in order to multiply
+Bantu (DLC),/HumanKind-Culture-Viewer/Images/Affinity/expansion_affinity.png,Expansionist,+2 Influence per number of adjacent Empires on Territory,/HumanKind-Culture-Viewer/Images/Emblematic District/Ancient/bantu_district.png,Mupia Fields,"Automatically upgrades regular Outpost.
++10Food on adjacent Cities",/HumanKind-Culture-Viewer/Images/Emblematic Units/Ancient/bantu_unit.png,Bagendi Pioneers,"Special Unit that gathers Food through fighting and ransacking in order to multiply
 Unable to climb Fortifications 
 Cannot be added to a regular Army."
 Caralans (DLC),/HumanKind-Culture-Viewer/Images/Affinity/builder_affinity.png,Builder,"+1Food on Farmers Quarters per adjacent Farmers Quarter
 +1Industry on Makers Quarters per adjacent Makers Quarter
 +1Money on Market Quarters per adjacent Market Quarter
-+1Science on Research Quarters per adjacent Research Quarter",/HumanKind-Culture-Viewer/Images/Emblematic District/Ancient/calarans_district.png,Ceremonial Plaza,"Allows construction of new Districts on adjacent Tiles
++1Science on Research Quarters per adjacent Research Quarter",/HumanKind-Culture-Viewer/Images/Emblematic District/Ancient/caralans_district.png,Ceremonial Plaza,"Allows construction of new Districts on adjacent Tiles
 -10 Stability
-+2 Faith per adjacent District",/HumanKind-Culture-Viewer/Images/Emblematic Units/Ancient/calarans_unit.png,Healers,"Close-combat Unit
++2 Faith per adjacent District",/HumanKind-Culture-Viewer/Images/Emblematic Units/Ancient/caralans_unit.png,Healers,"Close-combat Unit
 Knowledge of beneficial plants provides Health Regeneration (+? Health per turn) outside of Friendly Territories to all Units in their Army"
