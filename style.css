@@ -43,15 +43,15 @@ header {
     display: flex;
     flex-wrap: wrap;
     justify-content: flex-start; /* Align cards to the left */
-    margin-left: 10px; /* Add some margin to the left side of the content container */
+    margin-left: 20px; /* Add some margin to the left side of the content container */
 }
 
 .card {
-    width: calc(50% - 20px); /* Adjusted width to compensate for increased gap */
+    width: 300px; /* Adjusted width to compensate for increased gap */
     background-color: #444;
     color: #fff; /* White text */
     padding: 20px;
-    margin-right: 30px; /* Add more space between cards */
+    margin-right: 20px; /* Add more space between cards */
     margin-bottom: 20px; /* Add space between rows */
     border-radius: 5px; /* Add rounded corners */
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Add a subtle shadow */
@@ -63,7 +63,6 @@ header {
 
 /* Remove padding from the first card */
 .card:first-child {
-    padding-left: 0;
     margin-left: 0;
 }
 
