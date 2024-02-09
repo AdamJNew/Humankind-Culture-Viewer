@@ -38,6 +38,9 @@ header {
     cursor: pointer;
 	color: #fff; /* White text */
 }
+.active-tab {
+            color: blue; /* Change to your desired active tab color */
+}
 #development {
     display: flex;
 	padding: 10px;
