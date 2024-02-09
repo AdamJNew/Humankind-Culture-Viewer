@@ -40,23 +40,21 @@ header {
 }
 
 #content {
-    display: grid;
-	background-color: #222;
-    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
-    gap: 20px;
-    padding: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between; /* Adjust alignment as needed */
 }
 
-/* CSS for the card */
 .card {
     width: 300px; /* Adjust the width as needed */
-    background-color: #444; /* Dark grey */
+    background-color: #333; /* Dark grey */
     color: #fff; /* White text */
     padding: 20px;
     margin-bottom: 20px; /* Add some spacing between cards */
     border-radius: 5px; /* Add rounded corners */
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Add a subtle shadow */
 }
+
 
 
 .card img {
