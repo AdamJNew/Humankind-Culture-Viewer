@@ -43,7 +43,7 @@ header {
     display: flex;
     flex-wrap: wrap;
 	justify-content: flex-start; /* Align cards to the left */
-    margin-left: -20px; /* Counteract margin-right on cards to prevent overflow */
+    margin-left: 10px; /* Counteract margin-right on cards to prevent overflow */
 }
 
 .card {
@@ -66,10 +66,6 @@ header {
 
 .card-content {
     padding: 10px;
-}
-
-.card:first-child {
-    padding-left: 10px; /* Add padding to the left side of the first card */
 }
 
 .card:last-child {
