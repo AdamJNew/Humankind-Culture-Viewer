@@ -11,27 +11,8 @@ document.addEventListener('DOMContentLoaded', function() {
 async function loadTabData(era) {
     const response = await fetch(`${era}.csv`);
     const csvText = await response.text();
-    const data = parseCSV(csvText);
+    const data = Papa.parse(csvText, { header: true }).data;
     displayData(data);
-}
-
-function parseCSV(csvText) {
-    const rows = csvText.split('\n').map(row => row.trim()); // Split CSV text into rows
-    const headers = rows[0].split(','); // Extract headers from the first row
-    const data = [];
-
-    for (let i = 1; i < rows.length; i++) {
-        const columns = rows[i].split(','); // Split each row into columns
-        const rowData = {};
-
-        for (let j = 0; j < headers.length; j++) {
-            rowData[headers[j]] = columns[j]; // Assign each column value to its corresponding header
-        }
-
-        data.push(rowData);
-    }
-
-    return data;
 }
 
 function displayData(data) {
