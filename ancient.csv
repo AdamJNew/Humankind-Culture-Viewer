@@ -44,3 +44,59 @@ Can be used as a Land Unit Spawn Point for neighbor Cities
 Fast, hard-hitting mounted Unit able to charge enemies
 Receives bonus Combat Strength (+3) if attacking non-adjacent enemies
 Unable to climb Fortifications."
+Mycenaeans,/Humankind-Culture-Viewer/Images/Affinity/militarist_affinity.png,Militarist,"-20% on Unit Industry cost
++25 Experience on creating Unit on City or Outpost",/Humankind-Culture-Viewer/Images/Emblematic District/Ancient/mycenaeans_district.png,Cyclopean Fortress,"+20 District Fortification
++5 Stability
++2 Combat Strength in combat for Units in or adjacent to the District.",/Humankind-Culture-Viewer/Images/Emblematic Units/Ancient/mycenaeans_unit.png,Promachoi,"Close-combat Unit
+Stronger (+4) when attacking during the first round."
+Nubians,/Humankind-Culture-Viewer/Images/Affinity/merchant_affinity.png,Merchant,"+5 Money on Luxury Resource deposit
++5 Money on Strategic Resource deposit",/Humankind-Culture-Viewer/Images/Emblematic District/Ancient/nubians_district.png,Meroe Pyramids,"+2 Industry
++2 Money
++3 Money per adjacent Makers Quarter
++1 Traders Slot on City or Outpost
+-10 Stability",/Humankind-Culture-Viewer/Images/Emblematic Units/Ancient/nubians_unit.png,Ta-Seti Archers,"Ranged-combat Unit
+Can shoot at a target without having a clear Line of Sight to it (with no penalty to combat strength)."
+Olmecs,/Humankind-Culture-Viewer/Images/Affinity/aesthete_affinity.png,Aesthete,+3 Influence on Territory,/Humankind-Culture-Viewer/Images/Emblematic District/Ancient/olmecs_district.png,Olmec Head,"+1 Influence
++3 Food
++1 Influence per adjacent Farmers Quarter
+-10 Stability
++1 Farmers Slot on City or Outpost",/Humankind-Culture-Viewer/Images/Emblematic Units/Ancient/olmecs_unit.png,Javelin Throwers,"Ranged-combat Unit
+Less effective when it can't see its target. Receives a penalty (-8) when defending against close-combat attacks
+Stronger (+6) on Forest Tiles"
+Pama-Nyungan (DLC),/Humankind-Culture-Viewer/Images/Affinity/aesthete_affinity.png,Aesthete,"+3 Influence on Landmark Part
++5 Influence on Natural Wonder",/Humankind-Culture-Viewer/Images/Emblematic District/Ancient/pama-nyungan_district.png,Fish Traps,"+2 Food
++2 Food per adjacent River
++1 Farmers Slot on City or Outpost
+-10 Stability",/Humankind-Culture-Viewer/Images/Emblematic Units/Ancient/pama-nyungan_unit.png,Boomerang Throwers,"Ranged-combat Unit
+Less effective when it can't see its target. Receives a penalty (-8) when defending against close-combat attacks
+Ignores Movement penalties from Forests
+Regenerates Health (+20 Health per turn) when outside of your Territory."
+Phoenicians,/Humankind-Culture-Viewer/Images/Affinity/merchant_affinity.png,Merchant,"+2 Money per Traders on City or Outpost
++1 Combat Strength on Naval Unit
++1 Naval Movement Speed on Naval Unit",/Humankind-Culture-Viewer/Images/Emblematic District/Ancient/phoenicians_district.png,Haven,"+2 Money per adjacent Coastal Water
++2 Money per adjacent Lake
++1 Traders Slot on City or Outpost
++1 Farmers Slot on City or Outpost
+-10 Stability",/Humankind-Culture-Viewer/Images/Emblematic Units/Ancient/phoenicians_unit.png,Bireme,"Naval Unit that replaces Land Units which embark to travel across Ocean tiles
+Movement Points are reduced to 2 when in Battle
+Damaged (-35 Health per turn) by consecutive turns spent in deep water."
+Sumerians (DLC),/Humankind-Culture-Viewer/Images/Affinity/diplomatic_affinity.png,Diplomatic,"-10% on Attach Territory cost per remaining City Cap count
+-25% cost of signing Treaties with Independent Peoples",/Humankind-Culture-Viewer/Images/Emblematic District/Ancient/sumerians_district.png,Eduba,"-10 Stability
++2 Science
++1 Science per adjacent Farmers Quarter
++6 Science per adjacent Main Plaza and Administrative Center
++5 Leverage against all known Empires when the Eduba is built.",/Humankind-Culture-Viewer/Images/Emblematic Units/Ancient/sumerians_unit.png,Aga-Ush,"Anti-cavalry Close-combat Unit
+Receives bonus Combat Strength (+8) when fighting mounted enemies
+Grants additional Combat Strength (+1) for each Aga-Ush Unit in the same Army
+"
+Zhou,/Humankind-Culture-Viewer/Images/Affinity/aesthete_affinity.png,Aesthete,+2 Stability on District,/Humankind-Culture-Viewer/Images/Emblematic District/Ancient/zhou_district.png,Confucian School,"+1 Influence
++8 Stability
++1 Science
+Per adjacent Mountain:
+      +1 Influence
+      +4 Science
++1Researchers Slot on City or Outpost",/Humankind-Culture-Viewer/Images/Emblematic Units/Ancient/zhou_unit.png,Zhanche,"Heavy Cavalry
+Fast, hard-hitting mounted Unit able to charge enemies
+Receives bonus Combat Strength (+3) if attacking non-adjacent enemies
+Unable to climb Fortifications.
+Bonus Combat Strength (+3) when Stability is high"
