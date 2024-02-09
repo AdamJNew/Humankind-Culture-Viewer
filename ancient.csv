@@ -15,10 +15,10 @@ Bantu (DLC),/Humankind-Culture-Viewer/Images/Affinity/expansion_affinity.png,Exp
 +10 Food on adjacent Cities",/Humankind-Culture-Viewer/Images/Emblematic Units/Ancient/bantu_unit.png,Bagendi Pioneers,"Special Unit that gathers Food through fighting and ransacking in order to multiply
 Unable to climb Fortifications 
 Cannot be added to a regular Army."
-Caralans (DLC),/Humankind-Culture-Viewer/Images/Affinity/builder_affinity.png,Builder,"+1Food on Farmers Quarters per adjacent Farmers Quarter
-+1Industry on Makers Quarters per adjacent Makers Quarter
-+1Money on Market Quarters per adjacent Market Quarter
-+1Science on Research Quarters per adjacent Research Quarter",/Humankind-Culture-Viewer/Images/Emblematic District/Ancient/caralans_district.png,Ceremonial Plaza,"Allows construction of new Districts on adjacent Tiles
+Caralans (DLC),/Humankind-Culture-Viewer/Images/Affinity/builder_affinity.png,Builder,"+1 Food on Farmers Quarters per adjacent Farmers Quarter
++1 Industry on Makers Quarters per adjacent Makers Quarter
++1 Money on Market Quarters per adjacent Market Quarter
++1 Science on Research Quarters per adjacent Research Quarter",/Humankind-Culture-Viewer/Images/Emblematic District/Ancient/caralans_district.png,Ceremonial Plaza,"Allows construction of new Districts on adjacent Tiles
 -10 Stability
 +2 Faith per adjacent District",/Humankind-Culture-Viewer/Images/Emblematic Units/Ancient/caralans_unit.png,Healers,"Close-combat Unit
 Knowledge of beneficial plants provides Health Regeneration (+? Health per turn) outside of Friendly Territories to all Units in their Army"
