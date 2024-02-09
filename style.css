@@ -51,6 +51,7 @@ header {
     background-color: #333; /* Dark grey */
     color: #fff; /* White text */
     padding: 20px;
+	margin-right: 20px;
     margin-bottom: 20px; /* Add some spacing between cards */
     border-radius: 5px; /* Add rounded corners */
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Add a subtle shadow */
