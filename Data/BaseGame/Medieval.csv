@@ -1,6 +1,6 @@
 Culture Name,Affinity Image,Affinity,Trait Effect,Emblematic District Image,Emblematic District Name,Emblematic District,Emblematic Unit Image,Emblematic Unit Name,Emblematic Unit
 Aztecs,/Humankind-Culture-Viewer/Images/Affinity/militarist_affinity.png,Militarist,"+2 Land Movement Speed on Unit
--20% on Unit Industry cost",/Humankind-Culture-Viewer/Images/Emblematic District/Meieval/aztecs_district.png,Sacrificial Altar,"+5 Faith
+-20% on Unit Industry cost",/Humankind-Culture-Viewer/Images/Emblematic District/Medieval/aztecs_district.png,Sacrificial Altar,"+5 Faith
 +10 Stability
 +2 Influence from adjacent District",/Humankind-Culture-Viewer/Images/Emblematic Units/Medieval/aztecs_unit.png,Jaguar Warriors,"Melee Close-combat Unit
 No Combat Strength penalty from damage"
