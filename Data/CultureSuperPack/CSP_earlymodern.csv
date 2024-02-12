@@ -1,6 +1,6 @@
 Culture Name,Affinity Image,Affinity,Trait Effect,Emblematic District Image,Emblematic District Name,Emblematic District,Emblematic Unit Image,Emblematic Unit Name,Emblematic Unit
 Florentines,/Humankind-Culture-Viewer/Images/Affinity/scientist_affinity.png,Scientist,"Emblematic district produce Science equal to 50% of their Influence yield
-",/Humankind-Culture-Viewer/Images/CultureSuperPack.png,Polymath’s Workshop,"+3 Industry
+",/Humankind-Culture-Viewer/Images/CultureSuperPack.png,Polymath's Workshop,"+3 Industry
 +1 Influence per Researcher in this city
 +1 Researcher Slot
 Counts as Makers Quarter
@@ -146,7 +146,7 @@ During the Early Modern Era:
 May trespass in foreign empires
 May trade with foreign empires while at war
 You must have had trade relations with the foreign empire before the war started
-",/Humankind-Culture-Viewer/Images/CultureSuperPack.png,Pirates’ Mooring,"+1 Money per unique Resource poached
+",/Humankind-Culture-Viewer/Images/CultureSuperPack.png,Pirates' Mooring,"+1 Money per unique Resource poached
 Per ransack:
 +10 Money
 +10 Science
