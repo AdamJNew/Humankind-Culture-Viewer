@@ -1,36 +1,36 @@
-Culture Name,Affinity Image,Affinity,Trait Effect,Emblematic District Image,Emblematic District Name,Emblematic District,Emblematic Unit Image,Emblematic Unit Name,Emblematic Unit
-Au Lac,/Humankind-Culture-Viewer/Images/Affinity/builder_affinity.png,Builder,"+0.5 Industry per Fortification on all districts
+"Culture Name","Affinity Image","Affinity","Trait Effect","Emblematic District Image","Emblematic District Name","Emblematic District","Emblematic Unit Image","Emblematic Unit Name","Emblematic Unit"
+"Au Lac","/Images/Affinity/builder_affinity.png","Builder","+0.5 Industry per Fortification on all districts
 +5 Fortification on Garrisons
-",/Humankind-Culture-Viewer/Images/CultureSuperPack.png,Thanh,"+2 Influence
+","/Images/CultureSuperPack.png","Thanh","+2 Influence
 +10 Fortification
 +3 Fortification per adjacent Forest
-Counts as Garrison",/Humankind-Culture-Viewer/Images/CultureSuperPack.png,No Lien Chau,"Replaces Ballista
+Counts as Garrison","/Images/CultureSuperPack.png","No Lien Chau","Replaces Ballista
 27 Combat Strength (instead of 21 for Ballista)
 3 Movement (instead of 2 for Ballista)
 Does not auto-generate during sieges (must be built like any other unit)
 Unlocks at Siege Tactics (same as Ballista)"
-Chavin,/Humankind-Culture-Viewer/Images/Affinity/aesthete_affinity.png,Aesthete,"+2 Influence per territory following your State Religion
+"Chavin","/Images/Affinity/aesthete_affinity.png","Aesthete","+2 Influence per territory following your State Religion
 +3 Influence on religious districts
-",/Humankind-Culture-Viewer/Images/CultureSuperPack.png,Ritual Plaza,"+3 Faith
+","/Images/CultureSuperPack.png","Ritual Plaza","+3 Faith
 +5 Faith per adjacent Main Plaza
 +2 Stability per attached territory
 Counts as Commons Quarter
-Counts as Religious District",/Humankind-Culture-Viewer/Images/CultureSuperPack.png,Ceremonial Guards,"Does not replace any unit (upgrades to Pikemen)
+Counts as Religious District","/Images/CultureSuperPack.png","Ceremonial Guards","Does not replace any unit (upgrades to Pikemen)
 24 Combat Strength
 +3 Combat Strength when on a friendly district
 Unlocks at Standing Army"
-Goguryeo,/Humankind-Culture-Viewer/Images/Affinity/agrarian_affinity.png,Agrarian,"Land unit Population cost limited to 1 Population
+"Goguryeo","/Images/Affinity/agrarian_affinity.png","Agrarian","Land unit Population cost limited to 1 Population
 +5 Combat Strength on Militia units
 -1 Combat Strength on non-Militia units
-",/Humankind-Culture-Viewer/Images/CultureSuperPack.png,Hunting Ground,"Must be built on Forest tile
+","/Images/CultureSuperPack.png","Hunting Ground","Must be built on Forest tile
 Exploits only adjacent Forest and Woodland tiles
 +2 Food
 +2 Food per adjacent Forest and/or Woodland Exploitation
-+10 Experience to units recruited in this city",/Humankind-Culture-Viewer/Images/CultureSuperPack.png,Gaemamusa,"Does not replace any unit (upgrades to Knights)
++10 Experience to units recruited in this city","/Images/CultureSuperPack.png","Gaemamusa","Does not replace any unit (upgrades to Knights)
 27 Combat Strength
 +6 Combat Strength when Charging (instead of +3)
 Unlocks at Mounted Warfare"
-Helvetii,/Humankind-Culture-Viewer/Images/Affinity/militarist_affinity.png,Militarist,"On all ransacks per existing Migrating Tribe (Helvetii EU)
+"Helvetii","/Images/Affinity/militarist_affinity.png","Militarist","On all ransacks per existing Migrating Tribe (Helvetii EU)
 +10 Fame
 +1 Science
 On Outposts:
@@ -44,17 +44,17 @@ Culture Trait (only applies during the Classical Era): Gallic Wars
 -2% Industry per district in all cities
 May not upgrade Outposts into Cities
 May not attach territories
-",/Humankind-Culture-Viewer/Images/CultureSuperPack.png,Oppidum,"Replaces Outpost (all Outposts are converted to Oppida when entering the Classical Era)
-Exploits only Food from adjacent tiles",/Humankind-Culture-Viewer/Images/CultureSuperPack.png,Migrating Tribe,"Does not replace any unit (upgrades to Great Swordsmen)
+","/Images/CultureSuperPack.png","Oppidum","Replaces Outpost (all Outposts are converted to Oppida when entering the Classical Era)
+Exploits only Food from adjacent tiles","/Images/CultureSuperPack.png","Migrating Tribe","Does not replace any unit (upgrades to Great Swordsmen)
 31 Combat Strength
 -5% Combat Strength per city
 -3% Combat Strength per territory
 +50% Combat Strength when ransacking
 Ransacking will complete faster
 Must be bought out for 2 Population"
-Hisatsinom,/Humankind-Culture-Viewer/Images/Affinity/scientist_affinity.png,Scientist,"+3 Science on Main Plaza
+"Hisatsinom","/Images/Affinity/scientist_affinity.png","Scientist","+3 Science on Main Plaza
 +1 Science on emblematic districts
-",/Humankind-Culture-Viewer/Images/CultureSuperPack.png,Cliff Pueblo,"Must be built atop a cliff
+","/Images/CultureSuperPack.png","Cliff Pueblo","Must be built atop a cliff
 +12 Science
 -1 Science per district in territory
 Can reduce Science bonus above to 0 but cannot go negative
@@ -62,94 +62,94 @@ Can reduce Science bonus above to 0 but cannot go negative
 +1 Combat Strength on units on or adjacent to Cliff Pueblo
 +1 Researcher Slot
 Counts as Research Quarter
-Counts as Garrison",/Humankind-Culture-Viewer/Images/CultureSuperPack.png,Bowmen,"Does not replace any unit (upgrades to Crossbowmen)
+Counts as Garrison","/Images/CultureSuperPack.png","Bowmen","Does not replace any unit (upgrades to Crossbowmen)
 25 Combat Strength
 May scale cliffs
 Unlocks at Standing Army"
-Hopewell,/Humankind-Culture-Viewer/Images/Affinity/aesthete_affinity.png,Aesthete,"+4 Influence on districts built on rivers
-",/Humankind-Culture-Viewer/Images/CultureSuperPack.png,Timber Circle,"Must be built adjacent to a river
+"Hopewell","/Images/Affinity/aesthete_affinity.png","Aesthete","+4 Influence on districts built on rivers
+","/Images/CultureSuperPack.png","Timber Circle","Must be built adjacent to a river
 +3 Faith
 Per adjacent river:
 +2 Science
 +2 Influence
 +1 Researcher Slot
-Counts as Religious District",/Humankind-Culture-Viewer/Images/CultureSuperPack.png,Armed Scouts,"Replaces Horsemen
+Counts as Religious District","/Images/CultureSuperPack.png","Armed Scouts","Replaces Horsemen
 25 Combat Strength (instead of 26 for Horsemen)
 5 Movement (instead of 6 for Horsemen)
 Ignores terrain and movement penalties, and enemy zones of control
 Unlocks at Mounted Warfare"
-Kushans,/Humankind-Culture-Viewer/Images/Affinity/merchant_affinity.png,Merchant,"+3 Money per territory in your sphere of influence
+"Kushans","/Images/Affinity/merchant_affinity.png","Merchant","+3 Money per territory in your sphere of influence
 +0.5 Influence per Resource produced in your empire
 Counts each individual copy of all luxury and strategic resources
-",/Humankind-Culture-Viewer/Images/CultureSuperPack.png,Royal Mint,"+0.25 Money per Copper produced in your empire
+","/Images/CultureSuperPack.png","Royal Mint","+0.25 Money per Copper produced in your empire
 +1 Money per Silver produced in your empire
 +2 Money per Gold produced in your empire
 +5 Influence per adjacent foreign empire
 Counts foreign empires with territories adjacent to the territory in which the Royal Mint is built
-Counts as Makers Quarter",/Humankind-Culture-Viewer/Images/CultureSuperPack.png,Nomad Cavalry,"Does not replace any unit (upgrades to Crossbowmen)
+Counts as Makers Quarter","/Images/CultureSuperPack.png","Nomad Cavalry","Does not replace any unit (upgrades to Crossbowmen)
 19 Combat Strength
 +1% Combat Strength per unique Resource
 Counts each type of luxury and strategic resource you have access to, including those you trade for
 Unlocks at Standing Army"
-Nabateans,/Humankind-Culture-Viewer/Images/Affinity/aesthete_affinity.png,Aesthete,"+1 Influence on Exploitations not producing Food
-",/Humankind-Culture-Viewer/Images/CultureSuperPack.png,Cistern,"Food from terrain on adjacent Exploitations doubled
+"Nabateans","/Images/Affinity/aesthete_affinity.png","Aesthete","+1 Influence on Exploitations not producing Food
+","/Images/CultureSuperPack.png","Cistern","Food from terrain on adjacent Exploitations doubled
 +3 Influence per adjacent Exploitation not producing Food
 +1 Trader Slot
-Counts as Market Quarter",/Humankind-Culture-Viewer/Images/CultureSuperPack.png,Scouting Party,"Does not replace any unit (upgrades to Knights)
+Counts as Market Quarter","/Images/CultureSuperPack.png","Scouting Party","Does not replace any unit (upgrades to Knights)
 18 Combat Strength
 +2 Vision on this army
 +1 Range on Ranged units in this army
 Stacks with multiple Scouting Parties, up to a maximum of 5 Range"
-Numidians,/Humankind-Culture-Viewer/Images/Affinity/militarist_affinity.png,Militarist,"+0.5% Combat Strength on cavalry units per Horses
+"Numidians","/Images/Affinity/militarist_affinity.png","Militarist","+0.5% Combat Strength on cavalry units per Horses
 Effect capped at +25%
 -1% Upkeep on cavalry units per Horses
 Effect capped at -50%
 May not build non-cavalry units
 Effect applies only in the Classical Era
-",/Humankind-Culture-Viewer/Images/CultureSuperPack.png,Horse Breeder,"Produces 2 copies of Horses
+","/Images/CultureSuperPack.png","Horse Breeder","Produces 2 copies of Horses
 Per Horses deposit in your empire:
 +1 Food
 +1 Money
 Per adjacent Horses deposit:
 +2 Food
-+2 Money",/Humankind-Culture-Viewer/Images/CultureSuperPack.png,Numidian Cavalry,"Does not replace any unit (upgrades to Dragoons)
++2 Money","/Images/CultureSuperPack.png","Numidian Cavalry","Does not replace any unit (upgrades to Dragoons)
 20 Combat Strength
 May move during battle until all movement points are exhausted
 May climb fortifications
 Must be bought out for 3 Population
 Unlocks at Standing Army"
-Salish,/Humankind-Culture-Viewer/Images/Affinity/builder_affinity.png,Builder,"+1 Industry on Forest, Rocky Forest, and Woodland Exploitations
-Food, Industry, Money, and Science from terrain tripled on Forest, Rocky Forest, and Woodland Exploitations per adjacent “Huge Trees”
+"Salish","/Images/Affinity/builder_affinity.png","Builder","+1 Industry on Forest, Rocky Forest, and Woodland Exploitations
+Food, Industry, Money, and Science from terrain tripled on Forest, Rocky Forest, and Woodland Exploitations per adjacent ?Huge Trees?
 Food, Industry, Money, and Science from terrain are the base yields of a tile from its terrain and natural modifiers, and must be exploited by a district
-“Huge Trees” is a natural modifier that can occur naturally on Forest tiles
-",/Humankind-Culture-Viewer/Images/CultureSuperPack.png,Red Cedar Grove,"+5 Faith
+?Huge Trees? is a natural modifier that can occur naturally on Forest tiles
+","/Images/CultureSuperPack.png","Red Cedar Grove","+5 Faith
 10 Stability
 Per adjacent district:
 -1 Faith
 -2 Stability
 Must be built on a Forest, Rocky Forest, or Woodland tiles with adjacent land tiles that are all Forest, Rocky Forest, Woodland, or Mountain
-Counts as ""Huge Trees""",/Humankind-Culture-Viewer/Images/CultureSuperPack.png,Whaling Spearmen,"Does not replace any unit (upgrades to Pikemen)
+Counts as ""Huge Trees""","/Images/CultureSuperPack.png","Whaling Spearmen","Does not replace any unit (upgrades to Pikemen)
 24 Combat Strength
 +3 Combat Strength on Forest tiles"
-Teotihuacanos,/Humankind-Culture-Viewer/Images/Affinity/scientist_affinity.png,Scientist,"May not exploit Iron deposits
+"Teotihuacanos","/Images/Affinity/scientist_affinity.png","Scientist","May not exploit Iron deposits
 This effect applies for the rest of the game, but does not prevent you from trading for iron
 +1% Science per Obsidian produced in your empire
 +1 Science on Makers Quarters
-",/Humankind-Culture-Viewer/Images/CultureSuperPack.png,Obsidian Workshop,"Requires 1 copy of Obsidian to build
+","/Images/CultureSuperPack.png","Obsidian Workshop","Requires 1 copy of Obsidian to build
 Produces 2 copies of Obsidian
 +1 Industry per Obsidian
 +1 Science per Obsidian
-Counts as Makers Quarter",/Humankind-Culture-Viewer/Images/CultureSuperPack.png,Macuahuitl Warriors,"Requires 2 copies of Obsidian to build
+Counts as Makers Quarter","/Images/CultureSuperPack.png","Macuahuitl Warriors","Requires 2 copies of Obsidian to build
 Replaces Swordsmen
 28 Combat Strength (instead of 26 for Swordsmen)
 +4 Combat Strength when attacking in the first round of battle
 Unlocks at Standing Army (same as Swordsmen)"
-Thracians,/Humankind-Culture-Viewer/Images/Affinity/militarist_affinity.png,Militarist,"Per army in the territory of a foreign empire:
+"Thracians","/Images/Affinity/militarist_affinity.png","Militarist","Per army in the territory of a foreign empire:
 +30 Influence
 +100 Money
-",/Humankind-Culture-Viewer/Images/CultureSuperPack.png,Tattooist,"Produces Influence equal to 3% of the Combat Strength of friendly armies in this city
+","/Images/CultureSuperPack.png","Tattooist","Produces Influence equal to 3% of the Combat Strength of friendly armies in this city
 Produces Stability equal to 10% of the Combat Strength of friendly armies in this city
-Counts as Commons Quarter",/Humankind-Culture-Viewer/Images/CultureSuperPack.png,Peltasts,"Does not replace any unit (upgrades to Crossbowmen)
+Counts as Commons Quarter","/Images/CultureSuperPack.png","Peltasts","Does not replace any unit (upgrades to Crossbowmen)
 21 Combat Strength
 Melee units attacking this unit have their Combat Strength reduced to 0
 Melee units attacking this unit will do minimal damage to this unit but take heavy damage themselves

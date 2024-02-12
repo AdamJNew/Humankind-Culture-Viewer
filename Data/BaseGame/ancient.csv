@@ -1,101 +1,101 @@
-Culture Name,Affinity Image,Affinity,Trait Effect,Emblematic District Image,Emblematic District Name,Emblematic District,Emblematic Unit Image,Emblematic Unit Name,Emblematic Unit
-Assyrians,/Humankind-Culture-Viewer/Images/Affinity/expansion_affinity.png,Expansionist,"+1 Land Movement Speed on Unit 
+"Culture Name","Affinity Image","Affinity","Trait Effect","Emblematic District Image","Emblematic District Name","Emblematic District","Emblematic Unit Image","Emblematic Unit Name","Emblematic Unit"
+"Assyrians","/Images/Affinity/expansion_affinity.png","Expansionist","+1 Land Movement Speed on Unit 
 +5 Combat Strength bonus when ransacking on army 
-+100% Ransack gains on Army ",/Humankind-Culture-Viewer/Images/Emblematic District/Ancient/assyrian_district.png,Dunnu," +3 Influence
++100% Ransack gains on Army ","/Images/Emblematic District/Ancient/assyrian_district.png","Dunnu"," +3 Influence
 +20 District Fortification
-+2 Combat strength in combat for Units in or adjacent to the district",/Humankind-Culture-Viewer/Images/Emblematic Units/Ancient/assyrians_unit.png,Assyrian Raiders,"Close-Combat cavalry unit
++2 Combat strength in combat for Units in or adjacent to the district","/Images/Emblematic Units/Ancient/assyrians_unit.png","Assyrian Raiders","Close-Combat cavalry unit
 Generates additional Money (+10% per ""Pillager"" Unit in the ransacking Army)
 when destroying an Outpost or Independent Camp."
-Babylonians,/Humankind-Culture-Viewer/Images/Affinity/scientist_affinity.png,Scientist,+1 Era available to research,/Humankind-Culture-Viewer/Images/Emblematic District/Ancient/babylonians_district.png,Astronomy House,"+1 Food and +1 Science per Researchers
+"Babylonians","/Images/Affinity/scientist_affinity.png","Scientist","+1 Era available to research","/Images/Emblematic District/Ancient/babylonians_district.png","Astronomy House","+1 Food and +1 Science per Researchers
 +3 Science per adjacent Farmers Quarters
 +1 Researchers slot on City or Outpost
--10 Stability",/Humankind-Culture-Viewer/Images/Emblematic Units/Ancient/babylonians_unit.png,Sabu Sa Qasti,"Close-combat Anti-Cavalry Unit
+-10 Stability","/Images/Emblematic Units/Ancient/babylonians_unit.png","Sabu Sa Qasti","Close-combat Anti-Cavalry Unit
 Receives bonus Combat Strength (+8) when fighting mounted enemies."
-Bantu (DLC),/Humankind-Culture-Viewer/Images/Affinity/expansion_affinity.png,Expansionist,+2 Influence per number of adjacent Empires on Territory,/Humankind-Culture-Viewer/Images/Emblematic District/Ancient/bantu_district.png,Mupia Fields,"Automatically upgrades regular Outpost.
-+10 Food on adjacent Cities",/Humankind-Culture-Viewer/Images/Emblematic Units/Ancient/bantu_unit.png,Bagendi Pioneers,"Special Unit that gathers Food through fighting and ransacking in order to multiply
+"Bantu (DLC)","/Images/Affinity/expansion_affinity.png","Expansionist","+2 Influence per number of adjacent Empires on Territory","/Images/Emblematic District/Ancient/bantu_district.png","Mupia Fields","Automatically upgrades regular Outpost.
++10 Food on adjacent Cities","/Images/Emblematic Units/Ancient/bantu_unit.png","Bagendi Pioneers","Special Unit that gathers Food through fighting and ransacking in order to multiply
 Unable to climb Fortifications 
 Cannot be added to a regular Army."
-Caralans (DLC),/Humankind-Culture-Viewer/Images/Affinity/builder_affinity.png,Builder,"+1 Food on Farmers Quarters per adjacent Farmers Quarter
+"Caralans (DLC)","/Images/Affinity/builder_affinity.png","Builder","+1 Food on Farmers Quarters per adjacent Farmers Quarter
 +1 Industry on Makers Quarters per adjacent Makers Quarter
 +1 Money on Market Quarters per adjacent Market Quarter
-+1 Science on Research Quarters per adjacent Research Quarter",/Humankind-Culture-Viewer/Images/Emblematic District/Ancient/caralans_district.png,Ceremonial Plaza,"Allows construction of new Districts on adjacent Tiles
++1 Science on Research Quarters per adjacent Research Quarter","/Images/Emblematic District/Ancient/caralans_district.png","Ceremonial Plaza","Allows construction of new Districts on adjacent Tiles
 -10 Stability
-+2 Faith per adjacent District",/Humankind-Culture-Viewer/Images/Emblematic Units/Ancient/caralans_unit.png,Healers,"Close-combat Unit
++2 Faith per adjacent District","/Images/Emblematic Units/Ancient/caralans_unit.png","Healers","Close-combat Unit
 Knowledge of beneficial plants provides Health Regeneration (+? Health per turn) outside of Friendly Territories to all Units in their Army"
-Egyptians,/Humankind-Culture-Viewer/Images/Affinity/builder_affinity.png,Builder,"+1 Industry on Tile producing Industry
--10% on District Industry cost",/Humankind-Culture-Viewer/Images/Emblematic District/Ancient/egyptians_district.png,Egyptian Pyramid,"+1 Influence
+"Egyptians","/Images/Affinity/builder_affinity.png","Builder","+1 Industry on Tile producing Industry
+-10% on District Industry cost","/Images/Emblematic District/Ancient/egyptians_district.png","Egyptian Pyramid","+1 Influence
 +3 Industry
 -10 Stability
 +2 Industry per adjacent Makers Quarter
-+1 Workers Slot on City or Outpost",/Humankind-Culture-Viewer/Images/Emblematic Units/Ancient/egyptians_unit.png,Markabata,"Ranged-combat Unit
++1 Workers Slot on City or Outpost","/Images/Emblematic Units/Ancient/egyptians_unit.png","Markabata","Ranged-combat Unit
 Less effective when it can't see its target. Receives a penalty (-8) when defending against close-combat attacks."
-Harappans,/Humankind-Culture-Viewer/Images/Affinity/agrarian_affinity.png,Agrarian,"+1 Food on Dry Grass
-+1 Food on River",/Humankind-Culture-Viewer/Images/Emblematic District/Ancient/harappans_district.png,Canal Network,"+3 Food
+"Harappans","/Images/Affinity/agrarian_affinity.png","Agrarian","+1 Food on Dry Grass
++1 Food on River","/Images/Emblematic District/Ancient/harappans_district.png","Canal Network","+3 Food
 -10 Stability
 +2 Food per adjacent Farmers Quarter
-+1 Farmers Slot on City or Outpost",/Humankind-Culture-Viewer/Images/Emblematic Units/Ancient/harappans_unit.png,Runner,"Close-combat Unit
++1 Farmers Slot on City or Outpost","/Images/Emblematic Units/Ancient/harappans_unit.png","Runner","Close-combat Unit
 Ignores Movement penalties from Forests"
-Hittites,/Humankind-Culture-Viewer/Images/Affinity/militarist_affinity.png,Militarist,"+1 Combat Strength on Unit
-+20 Food, Industry, Money and Science on each Owned City per Occupied City",/Humankind-Culture-Viewer/Images/Emblematic District/Ancient/hittites_district.png,Awari,"+3 Money
+"Hittites","/Images/Affinity/militarist_affinity.png","Militarist","+1 Combat Strength on Unit
++20 Food, Industry, Money and Science on each Owned City per Occupied City","/Images/Emblematic District/Ancient/hittites_district.png","Awari","+3 Money
 +10 District Fortification
 Automatically upgrades regular Outposts.
 Can be used as a Land Unit Spawn Point for neighbor Cities
-+20 Health Regeneration on Unit in Territory",/Humankind-Culture-Viewer/Images/Emblematic Units/Ancient/hittites_unit.png,Gigir,"Heavy Cavalry
++20 Health Regeneration on Unit in Territory","/Images/Emblematic Units/Ancient/hittites_unit.png","Gigir","Heavy Cavalry
 Fast, hard-hitting mounted Unit able to charge enemies
 Receives bonus Combat Strength (+3) if attacking non-adjacent enemies
 Unable to climb Fortifications."
-Mycenaeans,/Humankind-Culture-Viewer/Images/Affinity/militarist_affinity.png,Militarist,"-20% on Unit Industry cost
-+25 Experience on creating Unit on City or Outpost",/Humankind-Culture-Viewer/Images/Emblematic District/Ancient/mycenaeans_district.png,Cyclopean Fortress,"+20 District Fortification
+"Mycenaeans","/Images/Affinity/militarist_affinity.png","Militarist","-20% on Unit Industry cost
++25 Experience on creating Unit on City or Outpost","/Images/Emblematic District/Ancient/mycenaeans_district.png","Cyclopean Fortress","+20 District Fortification
 +5 Stability
-+2 Combat Strength in combat for Units in or adjacent to the District.",/Humankind-Culture-Viewer/Images/Emblematic Units/Ancient/mycenaeans_unit.png,Promachoi,"Close-combat Unit
++2 Combat Strength in combat for Units in or adjacent to the District.","/Images/Emblematic Units/Ancient/mycenaeans_unit.png","Promachoi","Close-combat Unit
 Stronger (+4) when attacking during the first round."
-Nubians,/Humankind-Culture-Viewer/Images/Affinity/merchant_affinity.png,Merchant,"+5 Money on Luxury Resource deposit
-+5 Money on Strategic Resource deposit",/Humankind-Culture-Viewer/Images/Emblematic District/Ancient/nubians_district.png,Meroe Pyramids,"+2 Industry
+"Nubians","/Images/Affinity/merchant_affinity.png","Merchant","+5 Money on Luxury Resource deposit
++5 Money on Strategic Resource deposit","/Images/Emblematic District/Ancient/nubians_district.png","Meroe Pyramids","+2 Industry
 +2 Money
 +3 Money per adjacent Makers Quarter
 +1 Traders Slot on City or Outpost
--10 Stability",/Humankind-Culture-Viewer/Images/Emblematic Units/Ancient/nubians_unit.png,Ta-Seti Archers,"Ranged-combat Unit
+-10 Stability","/Images/Emblematic Units/Ancient/nubians_unit.png","Ta-Seti Archers","Ranged-combat Unit
 Can shoot at a target without having a clear Line of Sight to it (with no penalty to combat strength)."
-Olmecs,/Humankind-Culture-Viewer/Images/Affinity/aesthete_affinity.png,Aesthete,+3 Influence on Territory,/Humankind-Culture-Viewer/Images/Emblematic District/Ancient/olmecs_district.png,Olmec Head,"+1 Influence
+"Olmecs","/Images/Affinity/aesthete_affinity.png","Aesthete","+3 Influence on Territory","/Images/Emblematic District/Ancient/olmecs_district.png","Olmec Head","+1 Influence
 +3 Food
 +1 Influence per adjacent Farmers Quarter
 -10 Stability
-+1 Farmers Slot on City or Outpost",/Humankind-Culture-Viewer/Images/Emblematic Units/Ancient/olmecs_unit.png,Javelin Throwers,"Ranged-combat Unit
++1 Farmers Slot on City or Outpost","/Images/Emblematic Units/Ancient/olmecs_unit.png","Javelin Throwers","Ranged-combat Unit
 Less effective when it can't see its target. Receives a penalty (-8) when defending against close-combat attacks
 Stronger (+6) on Forest Tiles"
-Pama-Nyungan (DLC),/Humankind-Culture-Viewer/Images/Affinity/aesthete_affinity.png,Aesthete,"+3 Influence on Landmark Part
-+5 Influence on Natural Wonder",/Humankind-Culture-Viewer/Images/Emblematic District/Ancient/pama-nyungan_district.png,Fish Traps,"+2 Food
+"Pama-Nyungan (DLC)","/Images/Affinity/aesthete_affinity.png","Aesthete","+3 Influence on Landmark Part
++5 Influence on Natural Wonder","/Images/Emblematic District/Ancient/pama-nyungan_district.png","Fish Traps","+2 Food
 +2 Food per adjacent River
 +1 Farmers Slot on City or Outpost
--10 Stability",/Humankind-Culture-Viewer/Images/Emblematic Units/Ancient/pama-nyungan_unit.png,Boomerang Throwers,"Ranged-combat Unit
+-10 Stability","/Images/Emblematic Units/Ancient/pama-nyungan_unit.png","Boomerang Throwers","Ranged-combat Unit
 Less effective when it can't see its target. Receives a penalty (-8) when defending against close-combat attacks
 Ignores Movement penalties from Forests
 Regenerates Health (+20 Health per turn) when outside of your Territory."
-Phoenicians,/Humankind-Culture-Viewer/Images/Affinity/merchant_affinity.png,Merchant,"+2 Money per Traders on City or Outpost
+"Phoenicians","/Images/Affinity/merchant_affinity.png","Merchant","+2 Money per Traders on City or Outpost
 +1 Combat Strength on Naval Unit
-+1 Naval Movement Speed on Naval Unit",/Humankind-Culture-Viewer/Images/Emblematic District/Ancient/phoenicians_district.png,Haven,"+2 Money per adjacent Coastal Water
++1 Naval Movement Speed on Naval Unit","/Images/Emblematic District/Ancient/phoenicians_district.png","Haven","+2 Money per adjacent Coastal Water
 +2 Money per adjacent Lake
 +1 Traders Slot on City or Outpost
 +1 Farmers Slot on City or Outpost
--10 Stability",/Humankind-Culture-Viewer/Images/Emblematic Units/Ancient/phoenicians_unit.png,Bireme,"Naval Unit that replaces Land Units which embark to travel across Ocean tiles
+-10 Stability","/Images/Emblematic Units/Ancient/phoenicians_unit.png","Bireme","Naval Unit that replaces Land Units which embark to travel across Ocean tiles
 Movement Points are reduced to 2 when in Battle
 Damaged (-35 Health per turn) by consecutive turns spent in deep water."
-Sumerians (DLC),/Humankind-Culture-Viewer/Images/Affinity/diplomatic_affinity.png,Diplomatic,"-10% on Attach Territory cost per remaining City Cap count
--25% cost of signing Treaties with Independent Peoples",/Humankind-Culture-Viewer/Images/Emblematic District/Ancient/sumerians_district.png,Eduba,"-10 Stability
+"Sumerians (DLC)","/Images/Affinity/diplomatic_affinity.png","Diplomatic","-10% on Attach Territory cost per remaining City Cap count
+-25% cost of signing Treaties with Independent Peoples","/Images/Emblematic District/Ancient/sumerians_district.png","Eduba","-10 Stability
 +2 Science
 +1 Science per adjacent Farmers Quarter
 +6 Science per adjacent Main Plaza and Administrative Center
-+5 Leverage against all known Empires when the Eduba is built.",/Humankind-Culture-Viewer/Images/Emblematic Units/Ancient/sumerians_unit.png,Aga-Ush,"Anti-cavalry Close-combat Unit
++5 Leverage against all known Empires when the Eduba is built.","/Images/Emblematic Units/Ancient/sumerians_unit.png","Aga-Ush","Anti-cavalry Close-combat Unit
 Receives bonus Combat Strength (+8) when fighting mounted enemies
 Grants additional Combat Strength (+1) for each Aga-Ush Unit in the same Army
 "
-Zhou,/Humankind-Culture-Viewer/Images/Affinity/aesthete_affinity.png,Aesthete,+2 Stability on District,/Humankind-Culture-Viewer/Images/Emblematic District/Ancient/zhou_district.png,Confucian School,"+1 Influence
+"Zhou","/Images/Affinity/aesthete_affinity.png","Aesthete","+2 Stability on District","/Images/Emblematic District/Ancient/zhou_district.png","Confucian School","+1 Influence
 +8 Stability
 +1 Science
 Per adjacent Mountain:
       +1 Influence
       +4 Science
-+1Researchers Slot on City or Outpost",/Humankind-Culture-Viewer/Images/Emblematic Units/Ancient/zhou_unit.png,Zhanche,"Heavy Cavalry
++1Researchers Slot on City or Outpost","/Images/Emblematic Units/Ancient/zhou_unit.png","Zhanche","Heavy Cavalry
 Fast, hard-hitting mounted Unit able to charge enemies
 Receives bonus Combat Strength (+3) if attacking non-adjacent enemies
 Unable to climb Fortifications.
