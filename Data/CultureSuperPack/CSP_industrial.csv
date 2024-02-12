@@ -1,0 +1,225 @@
+Culture Name,Affinity Image,Affinity,Trait Effect,Emblematic District Image,Emblematic District Name,Emblematic District,Emblematic Unit Image,Emblematic Unit Name,Emblematic Unit
+Industrial Americans,/Humankind-Culture-Viewer/Images/Affinity/scientist_affinity.png,Scientist,"Forest and Rocky Forest Exploitations produce Science equal to their Industry yield
+On Forest and Rocky Forest Exploitations, per adjacent land Exploitation:
++3 Science
++1 Influence
+-1 Pollution
+",/Humankind-Culture-Viewer/Images/CultureSuperPack.png,Carnegie Library,"+1 Influence per Worker
++1 Science per Carnegie Library in your empire
++1 Researcher Slot
+Counts as Commons Quarter
+",/Humankind-Culture-Viewer/Images/CultureSuperPack.png,Gatling Gun,"Replaces Heavy Machine Gun
+47 Combat Strength (instead of 50 for Heavy Machine Gun)
+Targeted units may not move during the next round of battle
+Removes “Dug-In” status from targeted units
+
+
+
+
+
+"
+Boers,/Humankind-Culture-Viewer/Images/Affinity/agrarian_affinity.png,Agrarian,"On Settler units:
+Movement doubled
++10 Combat Strength
++1 Food on land Exploitations producing Food
+",/Humankind-Culture-Viewer/Images/CultureSuperPack.png,Homestead,"Exploits land up to 2 tiles away
++2 Food
++1 Food from terrain on adjacent tiles
++1 Industry per generic Farmers Quarter in this city
++1 Farmer Slot
+Counts as Farmers Quarter
+",/Humankind-Culture-Viewer/Images/CultureSuperPack.png,Trekkers,"Replaces Line Infantry
+47 Combat Strength (same as Line Infantry)
+-50% Combat Strength on melee units attacking this unit
+May not move and attack during the same battle round
+Unlocks at Line Formation (same as Line Infantry)
+
+
+
+
+
+"
+Chileans,/Humankind-Culture-Viewer/Images/Affinity/merchant_affinity.png,Merchant,"+1 Money per Strategic Resource
++1 base War Support per copy of Saltpeter produced in your empire
+",/Humankind-Culture-Viewer/Images/CultureSuperPack.png,Oficina Salitrera,"Must be built on a sterile desert tile not adjacent to any other deposits of Saltpeter
+Produces 2 copies of Saltpeter
++5 Industry
++30 Money
+-1 Money per Saltpeter
+Can reduce Money bonus above to 0 but cannot go negative
++1 Food on Farmers Quarters in this city
++5 Food on adjacent Farmers Quarters
++1 Worker Slot
+",/Humankind-Culture-Viewer/Images/CultureSuperPack.png,Dreadnought,"Does not replace any unit (upgrades to Battleship)
+63 Combat Strength
++4 Combat Strength when attacking weaker units
+Unlocks at Combustion Engine
+
+
+
+
+"
+Costa Ricans,/Humankind-Culture-Viewer/Images/Affinity/merchant_affinity.png,Merchant,"+20 Money on Coffee deposits
++10 Money on other Food Luxury deposits
+The other Food Luxuries Resources are Sage, Tea, Salt, and Saffron
++1 Money on Train Stations per trade route in their city
+",/Humankind-Culture-Viewer/Images/CultureSuperPack.png,Harbor Depot,"Replaces Train Station
+Must be built adjacent to a Harbor
++3 Money per naval trade route in territory
++5 Money per adjacent Market Quarter
++1 Trader Slot
++5 Pollution
+Counts as Train Station
+",/Humankind-Culture-Viewer/Images/CultureSuperPack.png,Patriotic Militia,"Replaces Partisans
+45 Combat Strength (same as Partisans)
++2 Combat Strength per Alliance
+Unlocks at Guerilla Warfare (same as Partisans)
+
+
+
+
+
+"
+Lakota,/Humankind-Culture-Viewer/Images/Affinity/expansion_affinity.png,Expansionist,"During the Industrial Era:
+In the capital, per unattached territory in your empire:
++25% Food
++25% Industry
++25% Money
++25% Science
+-80 Stability in all cities per attached territory
+After the Industrial Era:
+On all cities, per unattached territory in your empire:
++15% Food
++15% Industry
++15% Money
++15% Science
+",/Humankind-Culture-Viewer/Images/CultureSuperPack.png,Council Fire,"Must be bought out with Influence in an unattached territory
++3 Faith
++5 Influence per unattached territory in your empire
+Per adjacent Horses deposit:
++5 Food
++5 Industry
++5 Money
++5 Influence
+",/Humankind-Culture-Viewer/Images/CultureSuperPack.png,Mounted Rifles,"Replaces Dragoons
+Must be built in an unattached territory
+44 Combat Strength (instead of 46 for Dragoons)
+7 Movement (instead of 6 for Dragoons)
++5 Combat Strength when attacking
+-5 Combat Strength when defending
+May move after attacking
+Unlocks at Carbine (same as Dragoons)
+
+
+
+
+
+"
+Meiji Japanese,/Humankind-Culture-Viewer/Images/Affinity/builder_affinity.png,Builder,"+1 Faith on religious districts in territories following your State Religion, per adjacent district
+Religious districts produce Industry equal to 50% of their Faith yield
++50% Industry on Makers Quarters per adjacent religious district
+",/Humankind-Culture-Viewer/Images/CultureSuperPack.png,Naval Arsenal,"+25 Industry per adjacent Harbor
++15 Industry per adjacent Garrison
++20 Fortification
+-50% Upkeep on naval units in this city
++50% health regeneration on naval units in this city
++10 Pollution
++2 Worker Slots
+May only be built once per city
+Must be built adjacent to a Harbor
+Counts as Makers Quarter
+Counts as Garrison
+Counts as Harbor
+",/Humankind-Culture-Viewer/Images/CultureSuperPack.png,Surveyors,"Does not replace any unit (no upgrade)
+42 Combat Strength
++3 Vision to all units in this army
++2 Vision to Field Artillery units in this army
++1 Range to Field Artillery units in this army
+
+
+
+
+"
+Merina,/Humankind-Culture-Viewer/Images/Affinity/militarist_affinity.png,Militarist,"+30 War Support when starting a war
+No War Support penalty from cities occupied by your enemy
+No War Support penalty from territories in your enemy’s sphere of influence
+",/Humankind-Culture-Viewer/Images/CultureSuperPack.png,Protected Forest,"+35 Fortification
++15 Fortification per adjacent district
++6 Combat Strength on units on or adjacent to Protected Forest
+Must be built on a Forest, Rocky Forest, or Woodland tile
+Counts as Garrison
+",/Humankind-Culture-Viewer/Images/CultureSuperPack.png,Local Auxiliaries,"Replaces Line Infantry
+44 Combat Strength (instead of 47 for Line Infantry)
+Produced two at a time
+When you build one, a second will appear for free
+Unlocks at Military Coordination (instead of Line Formation for Line Infantry)
+
+
+
+
+
+"
+Norwegians,/Humankind-Culture-Viewer/Images/Affinity/aesthete_affinity.png,Aesthete,"Per 100 Influence your empire earns per turn:
++1% Food per Farmer
++1% Industry per Worker
++1% Money per Trader
++1% Science per Researcher
+",/Humankind-Culture-Viewer/Images/CultureSuperPack.png,Open Air Museum,"+1 Influence on pre-Industrial emblematic districts in this city per Era since they were built
+Ancient Era emblematic districts will give +4 Influence in the Industrial Era and +5 in the Contemporary Era, etc.
+This effect stacks with multiple Open Air Museums in a city
++1 Science per pre-Industrial emblematic district in this city
++5 Stability
++1 Researcher Slot
+Counts as Research Quarter
+Counts as Commons Quarter
+",/Humankind-Culture-Viewer/Images/CultureSuperPack.png,Ski Infantry,"Does not replace any unit (no upgrade)
+47 Combat Strength
++6 Combat Strength when attacking after moving
+-6 Combat Strength when defending or attacking without moving first
+May move during battle until all movement points are exhausted
+Unlocks at Nationhood
+
+
+
+
+
+"
+Industrial Swiss,/Humankind-Culture-Viewer/Images/Affinity/scientist_affinity.png,Scientist,"+3 Stability on districts per adjacent fortified district
+Must have 100 War Support to declare a Formal or Surprise War
+",/Humankind-Culture-Viewer/Images/CultureSuperPack.png,Patent Office,"+1 Industry per Researcher
++1 Science per Worker
++2 Science per Makers Quarter in this city
++2 Science per Research Quarter in this city
++1 Researcher Slot
+Counts as Makers Quarter
+Counts as Research Quarter
+",/Humankind-Culture-Viewer/Images/CultureSuperPack.png,Sharpshooters,"Does not replace any unit (upgrades to Commandos)
+48 Combat Strength
+Can fire without line of sight
+Unlocks at Nationhood
+
+
+
+
+
+"
+Texians,/Humankind-Culture-Viewer/Images/Affinity/aesthete_affinity.png,Aesthete,"+1 Influence on religious districts
++2 Combat Strength on units on or adjacent to religious districts
++2 Influence on districts per bonus Combat Strength on district
+",/Humankind-Culture-Viewer/Images/CultureSuperPack.png,Rodeo Range,"+1 Influence per Farmer
++1 Money per Horses
+Per adjacent Farmers Quarter:
++2 Money
++2 Influence
+Counts as Farmers Quarter
+Counts as Market Quarter
+",/Humankind-Culture-Viewer/Images/CultureSuperPack.png,Frontier Cowboy,"Replaces Dragoons
+40 Combat Strength (instead of 45 for Dragoons)
+2 Range (instead of 4 for Dragoons)
+May move after attacking
+Targeted units may not move during the next round of battle
+Does not require Saltpeter to build
+Unlocks at Military Coordination (instead of Carbine for Dragoons)
+
+
+"

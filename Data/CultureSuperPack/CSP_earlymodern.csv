@@ -1,0 +1,236 @@
+Culture Name,Affinity Image,Affinity,Trait Effect,Emblematic District Image,Emblematic District Name,Emblematic District,Emblematic Unit Image,Emblematic Unit Name,Emblematic Unit
+Florentines,/Humankind-Culture-Viewer/Images/Affinity/scientist_affinity.png,Scientist,"Emblematic district produce Science equal to 50% of their Influence yield
+",/Humankind-Culture-Viewer/Images/CultureSuperPack.png,Polymathís Workshop,"+3 Industry
++1 Influence per Researcher in this city
++1 Researcher Slot
+Counts as Makers Quarter
+Counts as Research Quarter
+",/Humankind-Culture-Viewer/Images/CultureSuperPack.png,Condottieri,"Does not replace any unit (upgrades to Medium Tank)
+47 Combat Strength
++4 Combat Strength against gunner units
+Unlocks at Chartered Companies
+
+
+
+"
+Kongolese,/Humankind-Culture-Viewer/Images/Affinity/aesthete_affinity.png,Aesthete,"+10% Influence in territories following a foreign State Religion
+",/Humankind-Culture-Viewer/Images/CultureSuperPack.png,Mpusu Weaver,"Produces Influence equal to 33% of its Money yield
++2 Money per land trade route in this city
++3 Money per adjacent Market Quarter
++2 Money per adjacent Makers Quarter
++1 Worker Slot
+Counts as Makers Quarter
+",/Humankind-Culture-Viewer/Images/CultureSuperPack.png,Shield Bearers,"Replaces Halberdiers
+43 Combat Strength (instead of 41 for Halberdiers)
++4 Combat Strength against gunner units
+Unlocks at Centralized Power (same as Halberdiers)
+
+
+
+
+
+"
+Mapuche,/Humankind-Culture-Viewer/Images/Affinity/agrarian_affinity.png,Agrarian,"+1 Vision on all land units
++4 Combat Strength on all land units
+-0.2 Combat Strength on all land units per attached territory in your empire
+Can exceed Combat Strength bonus above and create a malus on all land units
+-90% Upkeep on all land units
++5% Upkeep on all land units per attached territory in your empire
+Can exceed Upkeep reduction above and increase upkeep costs on all land units above base
+",/Humankind-Culture-Viewer/Images/CultureSuperPack.png,Aillarehua,"Replaces Hamlet
+Food produced on adjacent tiles doubled
++15 Fortification
++1 Farmer Slot
++1 Trader Slot
+Counts as Garrison
+",/Humankind-Culture-Viewer/Images/CultureSuperPack.png,Toquiís Warriors,"Replaces Halberdiers
+44 Combat Strength (instead of 41 for Halberdiers)
++1 Combat Strength per war declared on you
+Unlocks at Centralized Power (same as Halberdiers)
+
+
+
+
+
+"
+Muscovites,/Humankind-Culture-Viewer/Images/Affinity/builder_affinity.png,Builder,"+120% Industry in all cities
+-10% Industry in all cities per district
+Can reduce Industry bonus above to 0 but cannot exceed it
++2% Industry in cities per Garrison
+",/Humankind-Culture-Viewer/Images/CultureSuperPack.png,Kremlin,"+15 Fortification
++3 Stability per territory between this territory and your capital
++5 Stability per adjacent unattached territory
+When in an unattached territory:
+Food in territory doubled
++4 Combat Strength on allied units in this territory
+Counts as Garrison
+",/Humankind-Culture-Viewer/Images/CultureSuperPack.png,Streltsy,"Replaces Musketeers
+45 Combat Strength (instead of 46 for Musketeers)
++3 Combat Strength against non-gunner units
+Unlocks at Flintlock (same as Musketeers)
+
+
+
+
+"
+Omanis,/Humankind-Culture-Viewer/Images/Affinity/expansion_affinity.png,Expansionist,"+1 Influence per naval trade route
++1 Influence on land Exploitations per adjacent Coastal Water Exploitation
++1 Stability on Garrisons per territory in your sphere of influence
+",/Humankind-Culture-Viewer/Images/CultureSuperPack.png,Date Palm Plantation,"Must be built coastally
+Has all the same yields as an Administrative Center
+-1 Food on Exploitations in this city per adjacent Farmers Quarter
+Counts as Administrative Center
+",/Humankind-Culture-Viewer/Images/CultureSuperPack.png,Baghlah,"Replaces Carrack
+51 Combat Strength (same as Carrack)
++8 Combat Strength when fighting outside your territory
+Unlocks at Naval Artillery (same as Carrack)
+
+
+
+
+
+"
+Puebloans,/Humankind-Culture-Viewer/Images/Affinity/militarist_affinity.png,Militarist,"+25% Faith on Holy Sites per State Religion Holy Site in your empire
++5 Combat Strength on all units when fighting in your empire against an enemy with a different State Religion
+",/Humankind-Culture-Viewer/Images/CultureSuperPack.png,Great Kiva,"+2 Influence
++10 Stability
++3 Influence per adjacent district producing Faith
++5 Stability per adjacent district
+Counts as Commons Quarter
+Counts as Religious District
+",/Humankind-Culture-Viewer/Images/CultureSuperPack.png,Runners,"Does not replace any unit (upgrades to Partisans)
+27 Combat Strength
+6 Movement
++1 Vision over other land units
++3 Combat Strength on allied units during the first round of battle
+
+
+
+
+
+"
+Saadians,/Humankind-Culture-Viewer/Images/Affinity/builder_affinity.png,Builder,"+1 Industry on all cities per Strategic Resource produced in your empire
++2 Industry on Strategic Resource deposits per adjacent district
+",/Humankind-Culture-Viewer/Images/CultureSuperPack.png,Qasbah,"+2 Money per unique Strategic Resource
+Per Gold:
++2 Money
++2 Influence
+Per Salt:
++2 Money
++2 Influence
++20 Fortification
++1 Trader Slot
+Counts as Market Quarter
+Counts as Garrison
+",/Humankind-Culture-Viewer/Images/CultureSuperPack.png,Berber Cavalry,"Does not replace any unit (upgrades to Medium Tank)
+42 Combat Strength
++5 Combat Strength when attacking
+-5 Combat Strength when defending
+May move after attacking
+Unlocks at Centralized Power
+
+
+
+
+
+"
+Safavids,/Humankind-Culture-Viewer/Images/Affinity/merchant_affinity.png,Merchant,"Gunpowder Warfare technology is automatically unlocked when entering the Early Modern Era
+Number of Saltpeter accesses doubled on Saltpeter deposits in your empire
+",/Humankind-Culture-Viewer/Images/CultureSuperPack.png,Carpet Weaver,"+5 Money per Silk
++5 Money per adjacent Luxury Resource deposit
++1 Money per adjacent Market Quarter
++1 Worker Slot
+Counts as Makers Quarter
+",/Humankind-Culture-Viewer/Images/CultureSuperPack.png,Ghilman,"Replaces Arquebusiers and Musketeers (upgrades to Line Infantry)
+45 Combat Strength (instead of 39 for Arquebusiers and 46 for Musketeers)
+May not move and attack during the same battle round
+Unlocks at Gunpowder Warfare (same as Arquebusiers)
+
+
+
+
+"
+Saxons,/Humankind-Culture-Viewer/Images/Affinity/aesthete_affinity.png,Aesthete,"+5% Influence per Co-Religionist state
+Co-Religionist states are states that share your State Religion
++2 Influence from religious districts per adjacent city or outpost following a different state religion
+Counts cities and outposts with territories adjacent to the territory in which the religious district is built
+Applies to your empire-wide Influence generation and not on the district itself
++3 Combat Strength against enemies with a different State Religion
+",/Humankind-Culture-Viewer/Images/CultureSuperPack.png,Reformed Church,"+1 Faith per Follower of a foreign State Religion in your empire
+-1 Faith per Follower of your State Religion in your empire
+Can reduce Faith bonus above to 0 but cannot go negative
++5 Faith per adjacent religious district
+Per Faith produced on Reformed Church:
++1 Industry
++0.5 Influence
+May only be built once per city
+Counts as Religious District
+",/Humankind-Culture-Viewer/Images/CultureSuperPack.png,Landsknechte,"Replaces Halberdiers
+42 Combat Strength (instead of 41 for Halberdiers)
++5 Combat Strength against damaged units
+Unlocks at Humanism
+
+
+
+
+"
+Shaybanids,/Humankind-Culture-Viewer/Images/Affinity/scientist_affinity.png,Scientist,"+5 Science per land trade route on all cities and outposts
++1 Science per naval trade route on all cities and outposts
+",/Humankind-Culture-Viewer/Images/CultureSuperPack.png,Peasant School,"+2 Science
++1 Science per Farmer
++3 Science per adjacent Farmers Quarter
++3 Stability on adjacent Farmers Quarters
++1 Researcher Slot
+Counts as Research Quarter
+",/Humankind-Culture-Viewer/Images/CultureSuperPack.png,Flintlock Cavalry,"Does not replace any unit (upgrades to Dragoons)
+41 Combat Strength
+Ignores enemy zones of control
+Unlocks at Flintlock
+
+
+
+
+
+"
+Sinhalese,/Humankind-Culture-Viewer/Images/Affinity/merchant_affinity.png,Merchant,"All copies of Luxury Resources produced in your empire provide the same bonuses as the first copy
+The first copy of a Luxury Resource provides larger bonuses than any subsequent copies, but this bonus sets all copies you produce to provide the same benefit
+",/Humankind-Culture-Viewer/Images/CultureSuperPack.png,Pepper Plantation,"+3 Food
++1 Money on Luxury Resource extractors in this city per Luxury Resource extractor in this city
++1 Farmer Slot
+Counts as Farmers Quarter
+Counts as Luxury Resource extractor
+",/Humankind-Culture-Viewer/Images/CultureSuperPack.png,Kodithuwakkuwa,"Replaces Mortars
+43 Combat Strength (instead of 40 for Mortars)
+May attack fortifications
+Removes ‚ÄúDug-In‚Äù status from targeted units
+Unlocks at Gunpowder Warfare (instead of Siege Cannons for Mortars)
+
+
+
+
+
+"
+Sulu,/Humankind-Culture-Viewer/Images/Affinity/militarist_affinity.png,Militarist,"+5 War Support from retreating
++2% Money per naval unit in the territory of a foreign empire
+Your naval units reduce Money by 5% in the city where they are located
+This also affects your cities if your naval units are in your own territory
+During the Early Modern Era:
+May trespass in foreign empires
+May trade with foreign empires while at war
+You must have had trade relations with the foreign empire before the war started
+",/Humankind-Culture-Viewer/Images/CultureSuperPack.png,Piratesí Mooring,"+1 Money per unique Resource poached
+Per ransack:
++10 Money
++10 Science
++5 Influence
++2 Combat Strength on naval units while ransacking
+Ransacking will complete faster
+Counts as Garrison
+",/Humankind-Culture-Viewer/Images/CultureSuperPack.png,Lanong,"Replaces Carrack
+50 Combat Strength (instead of 51 for Carrack)
+7 Movement (instead of 6 for Carrack)
++5 Combat Strength when attacking a unit within 2 tiles
+Unlocks at Naval Artillery (same as Carrack)
+
+
+"

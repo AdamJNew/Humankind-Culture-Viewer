@@ -1,0 +1,232 @@
+Culture Name,Affinity Image,Affinity,Trait Effect,Emblematic District Image,Emblematic District Name,Emblematic District,Emblematic Unit Image,Emblematic Unit Name,Emblematic Unit
+Akkadians,/Humankind-Culture-Viewer/Images/Affinity/expansion_affinity.png,Expansionist,"-25% instability from territories attached to the capital
+            E2Equals +5 Stability per attached territory in the capital
+-30% territory attachment cost",/Humankind-Culture-Viewer/Images/CultureSuperPack.png,Ziggurat,"Special effect applied to all Main Plazas, in addition to their normal yields
++3 Influence
++2 Faith
++10 Stability
+-20% territory attachment cost in this city
+",/Humankind-Culture-Viewer/Images/CultureSuperPack.png,Axemen,"Replaces Warriors
+20 Combat Strength (instead of 19 for Warriors)
++3 Combat Strength when attacking a unit that wasn’t adjacent at the start of the round (same as Charge ability)
+Unlocks at City Defense (same as Warriors)
+
+
+
+
+
+"
+Hallstatt,/Humankind-Culture-Viewer/Images/Affinity/builder_affinity.png,Builder,"+5 Industry on Holy Sites
++10% Industry on Holy Sites per Copper
++2% Faith on Holy Sites per unique resource access (type of resource)",/Humankind-Culture-Viewer/Images/CultureSuperPack.png,Metalsmithy,"Replaces Copper Mine (functions as a Copper Mine)
++1 Industry per Copper
++3 Money per Gold
++3 Faith per Silver
++1 Worker Slot
+Counts as Makers Quarter
+Unlocks at Bronze-working (like the Copper Mine)
+",/Humankind-Culture-Viewer/Images/CultureSuperPack.png,Seers,"Does not replace any unit (upgrades to Horsemen)
+13 Combat Strength
++3 Combat Strength on allied units when fighting stronger units
+
+
+
+
+"
+Kucadikadi,/Humankind-Culture-Viewer/Images/Affinity/agrarian_affinity.png,Agrarian,"Lake Exploitations have yields equal to the combined yields of all adjacent land Exploitations
+For each Lake tile exploited (so you need a harbor), all adjacent land tiles exploited have their yields added together, and that total is the yield of this Lake tile
++5 Stability on Lake Exploitations",/Humankind-Culture-Viewer/Images/CultureSuperPack.png,Basket Weaver,"Must be built on a Dry Grass tile, with at least one adjacent Dry Grass tile
+Must be bought out with Influence in an unattached territory
++1 Industry
++1 Money
++2 Industry per adjacent Dry Grass Exploitation
+Counts as Makers Quarter
+",/Humankind-Culture-Viewer/Images/CultureSuperPack.png,Foragers,"Replaces Scouts (all Tribes are converted to Foragers when entering the Ancient Era)
+13 Combat Strength (same as Scouts)
+Regenerates health outside your territory
+
+
+
+
+
+"
+Lac Viet,/Humankind-Culture-Viewer/Images/Affinity/aesthete_affinity.png,Aesthete,"On Strategic Resource deposit:
++5 Influence
++1 Faith",/Humankind-Culture-Viewer/Images/CultureSuperPack.png,Drum Maker,"Must be built adjacent to a Strategic Resource deposit
++2 Industry
++2 Influence
+Per adjacent Strategic Resource deposit:
++4 Industry
++2 Faith
++1 Worker Slot
+Counts as Makers Quarter
+Unlocks at Bronze-working
+",/Humankind-Culture-Viewer/Images/CultureSuperPack.png,Dieu Nhan,"Replaces Warriors
+19 Combat Strength (same as Warriors)
++4 Combat Strength when fighting a stronger unit
+Ignores Combat Strength malus from damage
+Unlocks at City Defense (same as Warriors)
+
+
+
+
+"
+Lapita,/Humankind-Culture-Viewer/Images/Affinity/expansion_affinity.png,Expansionist,"50% attachment cost for territories with a Harborage (Lapita EQ)
+-25% attachment cost for territories with a Harbor (does not stack with the above discount)
+Cities with 7 Population or less do not count toward your city cap",/Humankind-Culture-Viewer/Images/CultureSuperPack.png,Harborage,"Must be bought out with Influence in an unattached territory
++2 Influence
++1 Food per embarked unit in this city
++1 Farmer Slot
+Counts as Farmers Quarter
+",/Humankind-Culture-Viewer/Images/CultureSuperPack.png,Navigators,"Does not replace any unit
+Naval transport unit (upgrades to Caravels)
+4 Combat Strength
+1 Movement
+Cannot be Lost At Sea (may cross Ocean tiles)
+Unlocks at Calendar
+
+
+
+
+
+"
+Minoans,/Humankind-Culture-Viewer/Images/Affinity/scientist_affinity.png,Scientist,"Science from terrain doubled on all tiles (does not include Science from Strategic Resources)
+ -Science from terrain is the science from Natural Modifiers like geysers, hot springs, etc. and must be exploited by a Research Quarter",/Humankind-Culture-Viewer/Images/CultureSuperPack.png,Palace,"+2 Influence
++1 Science from terrain on adjacent Natural Modifiers not producing Science
+This bonus automatically doubles to 2 because of the effect of the Legacy Trait
++1 Science per adjacent Exploitation producing Science
++1 Researcher Slot
+Counts as Research Quarter
+",/Humankind-Culture-Viewer/Images/CultureSuperPack.png,Bull Warriors,"Replaces Warriors
+18 Combat Strength (instead of 19 for Warriors)
++5 Combat Strength when attacking
+Unlocks at City Defense (same as Warriors)
+
+
+
+
+
+"
+Phrygians,/Humankind-Culture-Viewer/Images/Affinity/militarist_affinity.png,Militarist,"Science from terrain doubled on all tiles (does not include Science from Strategic Resources)
+ -Science from terrain is the science from Natural Modifiers like geysers, hot springs, etc. and must be exploited by a Research Quarter",/Humankind-Culture-Viewer/Images/CultureSuperPack.png,School of Music,"+0.5 Combat Strength on melee units
++0.5 Movement on melee units
++5 Influence
++3 Science
++1 Influence per adjacent district
+Units starting their turn on this district:
++2 Combat Strength
++4 Movement
+Can only be built once per city
+",/Humankind-Culture-Viewer/Images/CultureSuperPack.png,Auletes,"Does not replace any unit (upgrades to Horsemen)
+14 Combat Strength
+5 Movement
++3 Movement when retreating
+May move 1 tile after attacking
+Must be built in a city with a School of Music
+
+
+
+
+
+"
+Sahaptin,/Humankind-Culture-Viewer/Images/Affinity/merchant_affinity.png,Merchant,"On rivers:
++1 Money
++1 Faith
+All units ignores Combat Strength penalties from crossing rivers
+-This effect only applies during the Ancient Era",/Humankind-Culture-Viewer/Images/CultureSuperPack.png,Cataract Fishery,"+5 Food
+Per adjacent river:
++3 Money
++2 Food
++1 Trader Slot
+Counts as Market Quarter
+Exploits adjacent river tiles for Money
+",/Humankind-Culture-Viewer/Images/CultureSuperPack.png,Canoe Warriors,"Replaces Warriors
+20 Combat Strength (instead of 19 for Warriors)
+Ignores movement penalties from crossing rivers
+Unlocks at City Defense (same as Warriors)
+
+
+
+
+"
+Shona,/Humankind-Culture-Viewer/Images/Affinity/agrarian_affinity.png,Agrarian,"+5 Food on Main Plaza
++4 Food in capital per attached territory",/Humankind-Culture-Viewer/Images/CultureSuperPack.png,Zimbabwe,"Allows construction of new districts on adjacent tiles
+-2% Population consumption in capital
++1 Farmer Slot
+Counts as Farmers Quarter
+",/Humankind-Culture-Viewer/Images/CultureSuperPack.png,Running Spears,"Replaces Spearmen
+19 Combat Strength (instead of 18 for Spearmen)
+5 Movement (instead of 4 for Spearmen)
+May move during battle until all movement points are exhausted
+Unlocks at Bronze-working (same as Spearmen)
+
+
+
+
+
+"
+Sivullirmiut,/Humankind-Culture-Viewer/Images/Affinity/agrarian_affinity.png,Agrarian,"On Sterile terrain:
+   +2 Food
+   +2 Industry
+Both bonuses affect snow and desert tiles
+Tiles must be exploited to see the bonus
+May only build Harpooner units (Sivullirmiut EU)
+   This effect only applies during the Ancient Era",/Humankind-Culture-Viewer/Images/CultureSuperPack.png,Seal Hunting Grounds,"Must be built coastally in Arctic, Tundra, or Taiga climate
+Any territory with a cold climate
++5 Food
++2 Food per adjacent Coastal Water Exploitation
+Coastal Water tiles must be exploited (so you need a harbor)
++3 Food per Ambergris
++3 Money per Pearls
+Counts as Farmers Quarter
+Counts as Market Quarter
+",/Humankind-Culture-Viewer/Images/CultureSuperPack.png,Harpooners,"Replaces Scouts (all Tribes are converted to Harpooners when entering the Ancient Era)
+17 Combat Strength (instead of 13 for Scouts)
+3 Movement (instead of 4 for Scouts)
+Fights at full strength in melee
++6 Combat Strength on Forest tiles
+May not climb fortifications
+
+
+
+
+
+"
+Valdivia,/Humankind-Culture-Viewer/Images/Affinity/agrarian_affinity.png,Agrarian,"+2 Food on Coastal Water
++1 Food on Lake",/Humankind-Culture-Viewer/Images/CultureSuperPack.png,Net Weaver,"+3 Industry
++5 Food on adjacent Coastal Water Exploitations
+Coastal Water tiles must be exploited (so you need a harbor)
+Counts as Makers Quarter
+",/Humankind-Culture-Viewer/Images/CultureSuperPack.png,Emissaries,"Replaces Scouts (all Tribes are converted to Emissaries when entering the Ancient Era)
+12 Combat Strength (instead of 13 for Scouts)
+6 Vision (instead of 4 for Scouts)
+Regenerates health outside your territory
+
+
+
+
+
+"
+Yayoi,/Humankind-Culture-Viewer/Images/Affinity/scientist_affinity.png,Scientist,"+0.5 Science per unearned Era Star
+ -There are 24 possible era stars in each era; so at the start of the Ancient Era you earn 12 Science per turn, which decreases as you earn era stars through the era
+Science bonus from unearned Era Stars doubles in each new era
+ -i.e. +1 in the Classical Era, +2 in the Medieval Era, +4 in the Early Modern Era, etc",/Humankind-Culture-Viewer/Images/CultureSuperPack.png,Legation,"+1 Science per trade route in this city
+Per Alliance:
++5 Money
++5 Influence
+Per adjacent Research Quarter:
++2 Science
++2 Influence
++1 Researcher Slot
+Counts as Research Quarter
+",/Humankind-Culture-Viewer/Images/CultureSuperPack.png,Dagger-Axe Warriors,"Replaces Spearmen
+19 Combat Strength (instead of 18 for Spearmen)
+-4 Combat Strength on units when defending against this unit
+Unlocks at Bronze-working (same as Spearmen)
+
+
+"
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
