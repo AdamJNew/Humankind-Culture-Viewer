@@ -2,7 +2,8 @@ Culture Name,Affinity Image,Affinity,Trait Effect,Emblematic District Image,Embl
 Ecuadorians,/Humankind-Culture-Viewer/Images/Affinity/scientist_affinity.png,Scientist,"Science on Research Quarters doubled in territories with a Natural Wonder
 Influence on emblematic districts doubled in territories with a Natural Wonder
 +5 Science on Research Quarters per adjacent Nature Reserve or National Park (Ecuadorian EQ)
-",/Humankind-Culture-Viewer/Images/CultureSuperPack.png,National Park & Eco-Tourism Bureau,"<b>National Park</b>
+",/Humankind-Culture-Viewer/Images/CultureSuperPack.png,National Park & Eco-Tourism Bureau,"
+<b>National Park</b>
 Food on this tile multiplied by 5
 Science on this tile multiplied by 5
 +1 Influence per Science on this tile
@@ -10,6 +11,7 @@ Science on this tile multiplied by 5
 May only be built once per city
 Counts as Research Quarter
 Unlocks at Research Institute
+
 <b>Eco-Tourism Bureau</b>
 Must be built adjacent to a Nature Reserve or National Park (Ecuadorian EQ)
 +3 Science on Nature Reserves and Natural Parks in this territory
@@ -21,13 +23,7 @@ Per National Park in this territory:
 +3 Influence
 Per Natural Wonder in this city:
 +20 Money
-+10 Influence
-
-
-
-
-
-",/Humankind-Culture-Viewer/Images/CultureSuperPack.png,No Unit,
++10 Influence",/Humankind-Culture-Viewer/Images/CultureSuperPack.png,No Unit,
 Icelanders,/Humankind-Culture-Viewer/Images/Affinity/builder_affinity.png,Builder,"May build an extra Harbor in all territories
 The second Harbor appears as an emblematic district for the Icelanders
 May not build Coal Plants, Nuclear Plants, Solar Farms, or Wind Farms
