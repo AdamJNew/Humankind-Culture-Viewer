@@ -14,14 +14,9 @@ On religious districts in this city:
 +1 Money
 +1 Faith
 Counts as Ruin
-Counts as Religious District
-",/Humankind-Culture-Viewer/Images/CultureSuperPack.png,Bolas Throwers,"Replaces Crossbowmen
+Counts as Religious District",/Humankind-Culture-Viewer/Images/CultureSuperPack.png,Bolas Throwers,"Replaces Crossbowmen
 27 Combat Strength (instead of 31 for Crossbowmen)
-Targeted units may not move during the next round of battle
-
-
-
-"
+Targeted units may not move during the next round of battle"
 Haida,/Humankind-Culture-Viewer/Images/Affinity/aesthete_affinity.png,Aesthete,"Only during the Medieval Era:
 Does not gain Money per turn
 Negative Money per turn still possible
@@ -32,17 +27,11 @@ After the Medieval Era:
 +5 Stability per Era
 +2 Influence per adjacent district
 Counts as Commons Quarter
-Counts as Religious District
-",/Humankind-Culture-Viewer/Images/CultureSuperPack.png,Qiidaaw,"Replaces Great Swordsmen
+Counts as Religious District",/Humankind-Culture-Viewer/Images/CultureSuperPack.png,Qiidaaw,"Replaces Great Swordsmen
 35 Combat Strength (same as Great Swordsmen)
 Ranged units attacking this unit have -8 Combat Strength (as though they are fighting in melee)
 Does not require Iron to build
-Unlocks at Heavy Infantry (same as Great Swordsmen)
-
-
-
-
-"
+Unlocks at Heavy Infantry (same as Great Swordsmen)"
 Majapahit,/Humankind-Culture-Viewer/Images/Affinity/expansion_affinity.png,Expansionist,"+5 Stability per open Specialist Slot in all cities
 Specialist slots are Farmer/Worker/Trader/Researcher slots
 Population never lost to starvation in the capital
@@ -55,11 +44,7 @@ Counts as {Quarter Type} Quarter",/Humankind-Culture-Viewer/Images/CultureSuperP
 38 Combat Strength (instead of 26 for Trebuchet)
 Does not auto-generate during sieges (must be built like any other unit)
 May not retaliate when attacked
-Unlocks at Military Architecture (same as Trebuchet)
-
-
-
-"
+Unlocks at Military Architecture (same as Trebuchet)"
 Malians,/Humankind-Culture-Viewer/Images/Affinity/scientist_affinity.png,Scientist,"+5 Science per territory following your State Religion
 ",/Humankind-Culture-Viewer/Images/CultureSuperPack.png,Madrasah,"+1 Science per Faith produced in this territory
 +1 Money per land trade route in this city
@@ -67,18 +52,11 @@ Malians,/Humankind-Culture-Viewer/Images/Affinity/scientist_affinity.png,Scienti
 +2 Science per adjacent Market Quarter
 Counts as Market Quarter
 Counts as Research Quarter
-Counts as Religious District
-",/Humankind-Culture-Viewer/Images/CultureSuperPack.png,Quivermen,"Replaces Crossbowmen
+Counts as Religious District",/Humankind-Culture-Viewer/Images/CultureSuperPack.png,Quivermen,"Replaces Crossbowmen
 26 Combat Strength (instead of 31 for Crossbowmen)
 Can fire without line of sight
 Fights at full strength in melee
-Unlocks at War Summons (same as Crossbowmen)
-
-
-
-
-
-"
+Unlocks at War Summons (same as Crossbowmen)"
 Medang,/Humankind-Culture-Viewer/Images/Affinity/agrarian_affinity.png,Agrarian,"+1 Holy Site cap
 +2 Faith on Farmers Quarters
 ",/Humankind-Culture-Viewer/Images/CultureSuperPack.png,Borobudur,"Unique Holy Site
@@ -90,16 +68,11 @@ Must be built in a city with at least 3 Farmers Quarters
 May be built as many times as you have available Holy Site slots
 Counts as Holy Site
 Counts as Religious District
-Unlocks at Theology
-",/Humankind-Culture-Viewer/Images/CultureSuperPack.png,Armed Peasantry,"Replaces Peasants
+Unlocks at Theology",/Humankind-Culture-Viewer/Images/CultureSuperPack.png,Armed Peasantry,"Replaces Peasants
 28 Combat Strength (instead of 27 for Peasants)
 +3 Combat Strength when on a friendly district
 Does not auto-generate during sieges (must be built like any other unit)
-Unlocks at Feudalism (same as Peasants)
-
-
-
-"
+Unlocks at Feudalism (same as Peasants)"
 Palas,/Humankind-Culture-Viewer/Images/Affinity/scientist_affinity.png,Scientist,"On Research Quarter:
 +2 Influence
 +2 Faith
@@ -112,19 +85,12 @@ Counts cities and outposts with territories adjacent to the territory in which t
 +1 Researcher Slot
 Counts as Research Quarter
 Counts as Religious District
-Unlocks at Theology
-",/Humankind-Culture-Viewer/Images/CultureSuperPack.png,Elephant Corps,"Replaces Knights
+Unlocks at Theology",/Humankind-Culture-Viewer/Images/CultureSuperPack.png,Elephant Corps,"Replaces Knights
 42 Combat Strength (instead of 36 for Knights)
 Ignores enemy zones of control
 Cannot be bought out
 Must be built with Industry, cannot instantly complete by spending Population
-Unlocks at Chivalry (same as Knights)
-
-
-
-
-
-"
+Unlocks at Chivalry (same as Knights)"
 Qusqu,/Humankind-Culture-Viewer/Images/Affinity/builder_affinity.png,Builder,"+5 Industry on generic Makers Quarter in overpopulated cities
 Effect does not apply to emblematic districts that count as Makers Quarters
 Overpopulated cities are cities that have more Population than they have Specialist Slots
@@ -133,18 +99,12 @@ Shared projects are any constructions that can share cost across cities, like Wo
 ",/Humankind-Culture-Viewer/Images/CultureSuperPack.png,Khipu Kamayuqkuna Guild,"-3% Population consumption in this city
 -10% Food cost of overpopulation in this city
 +1 Industry per overpopulation in this city
-+2 on adjacent Farmers Quarters
-",/Humankind-Culture-Viewer/Images/CultureSuperPack.png,Mountain Slingers,"Replaces Crossbowmen
++2 on adjacent Farmers Quarters",/Humankind-Culture-Viewer/Images/CultureSuperPack.png,Mountain Slingers,"Replaces Crossbowmen
 32 Combat Strength (instead of 31 for Crossbowmen)
 5 Movement (instead of 4 for Crossbowmen)
 +3 Combat Strength when fighting a unit on a lower tile
 Stacks with normal bonus from elevation
-Unlocks at War Summons (same as Crossbowmen)
-
-
-
-
-"
+Unlocks at War Summons (same as Crossbowmen)"
 Rus',/Humankind-Culture-Viewer/Images/Affinity/aesthete_affinity.png,Aesthete,"+50% Influence on Main Plazas built on rivers
 -10% territory attachment cost per river Exploitation in territory
 ",/Humankind-Culture-Viewer/Images/CultureSuperPack.png,Merchants� Church,"Must be built adjacent to a river
@@ -154,20 +114,14 @@ Rus',/Humankind-Culture-Viewer/Images/Affinity/aesthete_affinity.png,Aesthete,"+
 +5 Stability
 +1 Trader Slot
 Counts as Commons Quarter
-Counts as Religious District
-",/Humankind-Culture-Viewer/Images/CultureSuperPack.png,Boyar Cavalry,"Replaces Knights
+Counts as Religious District",/Humankind-Culture-Viewer/Images/CultureSuperPack.png,Boyar Cavalry,"Replaces Knights
 35 Combat Strength (instead of 36 for Knights)
 +5 Combat Strength when Stability is high
 When empire Stability is >90%
 Unlocks at Chivalry (same as Knights)
 
 Historical Background:
-Founded by Viking traders and voyagers in the 9th century, the Rus’ were Slavic peoples who traded and settled along the many river routes connecting the Baltic and Black Seas. With religious influence from the Byzantine Empire, the Rus’ were eventually converted to Christianity and adopted many classically Byzantine cultural and religious traditions. Though the Rus’ eventually splintered into many competing states, their empire was the first to unite the East Slavs and many later states have claimed descent from the empire.
-
-
-
-
-"
+Founded by Viking traders and voyagers in the 9th century, the Rus’ were Slavic peoples who traded and settled along the many river routes connecting the Baltic and Black Seas. With religious influence from the Byzantine Empire, the Rus’ were eventually converted to Christianity and adopted many classically Byzantine cultural and religious traditions. Though the Rus’ eventually splintered into many competing states, their empire was the first to unite the East Slavs and many later states have claimed descent from the empire."
 Medieval Swiss,/Humankind-Culture-Viewer/Images/Affinity/agrarian_affinity.png,Agrarian,"-1% Population consumption per Farmer in all cities
 ",/Humankind-Culture-Viewer/Images/CultureSuperPack.png,Sennerei,"+5 Food
 +1 Money
@@ -175,18 +129,11 @@ Per adjacent Farmers Quarter:
 +2 Food
 +1 Money
 +5 Food per adjacent Mountain
-Counts as Farmers Quarter
-",/Humankind-Culture-Viewer/Images/CultureSuperPack.png,Gevierthaufen,"Replaces Pikemen
+Counts as Farmers Quarter",/Humankind-Culture-Viewer/Images/CultureSuperPack.png,Gevierthaufen,"Replaces Pikemen
 35 Combat Strength (instead of 31 for Pikemen)
 Has no upkeep cost
 Costs 2 Population to build (instead of 1 for Pikemen)
-Unlocks at War Summons (same as Pikemen)
-
-
-
-
-
-"
+Unlocks at War Summons (same as Pikemen)"
 Tang,/Humankind-Culture-Viewer/Images/Affinity/expansion_affinity.png,Expansionist,"+2 Influence per Researcher
 +5 Stability on Research Quarters
 ",/Humankind-Culture-Viewer/Images/CultureSuperPack.png,Examination Hall,"+3 Science
@@ -194,17 +141,11 @@ Tang,/Humankind-Culture-Viewer/Images/Affinity/expansion_affinity.png,Expansioni
 +1 Science per outpost in your empire
 +1 Influence per outpost in your empire
 +1 Researcher Slot
-Counts as Research Quarter
-",/Humankind-Culture-Viewer/Images/CultureSuperPack.png,Jin Jun,"Replaces Pikemen
+Counts as Research Quarter",/Humankind-Culture-Viewer/Images/CultureSuperPack.png,Jin Jun,"Replaces Pikemen
 32 Combat Strength (instead of 31 for Pikemen)
 +5 Combat Strength when Stability is high
 When empire Stability is >90%
-Unlocks at War Summons (same as Pikemen)
-
-
-
-
-"
+Unlocks at War Summons (same as Pikemen)"
 Tibetans,/Humankind-Culture-Viewer/Images/Affinity/expansion_affinity.png,Expansionist,"-50% instability from attached territories following your State Religion
 Equals +10 Stability per attached territory following your State Religion
 Yields on Mountains in territories with a Hermitage (Tibetan EQ), per adjacent Mountain:
@@ -220,18 +161,10 @@ Per adjacent Mountain:
 +0.5 Faith
 -1 Farmer Slot
 -1 Maker Slot
-Counts as Religious District
-",/Humankind-Culture-Viewer/Images/CultureSuperPack.png,Mail Warriors,"Replaces Great Swordsmen
+Counts as Religious District",/Humankind-Culture-Viewer/Images/CultureSuperPack.png,Mail Warriors,"Replaces Great Swordsmen
 35 Combat Strength (same as Great Swordsmen)
 Ranged units attacking this unit have -8 Combat Strength (as though they are fighting in melee)
-Unlocks at Heavy Infantry (same as Great Swordsmen)
-
-.
-
-
-
-
-"
+Unlocks at Heavy Infantry (same as Great Swordsmen)"
 Tongans,/Humankind-Culture-Viewer/Images/Affinity/aesthete_affinity.png,Aesthete,"On Coastal Water
 +0.5 Influence
 +3 Food per adjacent Farmers Quarter
@@ -241,14 +174,8 @@ Tongans,/Humankind-Culture-Viewer/Images/Affinity/aesthete_affinity.png,Aesthete
 ",/Humankind-Culture-Viewer/Images/CultureSuperPack.png,Ha�amonga �a Maui,"Must be built coastally
 Per enacted Civic:
 +2 Industry
-+2 Influence
-",/Humankind-Culture-Viewer/Images/CultureSuperPack.png,Drua,"Replaces Cog
++2 Influence",/Humankind-Culture-Viewer/Images/CultureSuperPack.png,Drua,"Replaces Cog
 44 Combat Strength (instead of 42 for Cog)
 7 Movement (instead of 6 for Cog)
 Cannot be Lost At Sea (may cross Ocean tiles)
-Unlocks at Seafaring Mastery (same as Cog)
-
-
-
-
-"
+Unlocks at Seafaring Mastery (same as Cog)"

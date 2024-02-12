@@ -35,17 +35,10 @@ On Coastal Water Exploitations:
 +5 Science
 +5 Industry per Geyser, Hydrothermal Vent, and Hot Spring in this city
 -20% Pollution on Makers Quarters in this city
-Counts as Makers Quarter
-",/Humankind-Culture-Viewer/Images/CultureSuperPack.png,Coast Guard Patrol Ship,"Does not replace any unit (no upgrade)
+Counts as Makers Quarter",/Humankind-Culture-Viewer/Images/CultureSuperPack.png,Coast Guard Patrol Ship,"Does not replace any unit (no upgrade)
 54 Combat Strength
 +1 Food on Coastal Water Exploitations in this city
-Unlocks at Radar
-
-
-
-
-
-"
+Unlocks at Radar"
 Kenyans,/Humankind-Culture-Viewer/Images/Affinity/diplomatic_affinity.png,Diplomatic,"-1 base War Support on all foreign empires per Diplomatic Agreement signed
 +2 War Support per turn when fighting a defensive war
 ",/Humankind-Culture-Viewer/Images/CultureSuperPack.png,United Nations Branch Office,"Must be built adjacent to a Main Plaza
@@ -55,17 +48,10 @@ Kenyans,/Humankind-Culture-Viewer/Images/Affinity/diplomatic_affinity.png,Diplom
 +3 Money per Market Quarter in this city
 +3 Science per Research Quarter in this city
 +5 Stability per Era
-+3 Influence per Era per adjacent District
-",/Humankind-Culture-Viewer/Images/CultureSuperPack.png,Counter-Terrorism Unit,"Replaces Commandos
++3 Influence per Era per adjacent District",/Humankind-Culture-Viewer/Images/CultureSuperPack.png,Counter-Terrorism Unit,"Replaces Commandos
 54 Combat Strength
 +1 Combat Strength per 50 International Sway
-Unlocks at Covert Ops (same as Commandos)
-
-
-
-
-
-"
+Unlocks at Covert Ops (same as Commandos)"
 Malaysians,/Humankind-Culture-Viewer/Images/Affinity/merchant_affinity.png,Merchant,"+1 Stability per trade route in all cities
 +3% Money per Harbor in all cities
 ",/Humankind-Culture-Viewer/Images/CultureSuperPack.png,Container Port,"+2 Money per trade route in this city
@@ -73,17 +59,10 @@ Malaysians,/Humankind-Culture-Viewer/Images/Affinity/merchant_affinity.png,Merch
 +3 Money per Market Quarter in this territory
 +5 Money per adjacent Harbor
 +2 Trader Slots
-Counts as Harbor
-",/Humankind-Culture-Viewer/Images/CultureSuperPack.png,Patrol Frigate,"Does not replace any unit (no upgrade)
+Counts as Harbor",/Humankind-Culture-Viewer/Images/CultureSuperPack.png,Patrol Frigate,"Does not replace any unit (no upgrade)
 54 Combat Strength
 +3 Combat Strength on allied units when fighting stronger units
-Unlocks at Radar
-
-
-
-
-
-"
+Unlocks at Radar"
 Modern Swiss,/Humankind-Culture-Viewer/Images/Affinity/merchant_affinity.png,Merchant,"+1 Money per Population per Train Station on all cities
 +10 Influence on Train Stations
 +10 Stability on Train Stations
@@ -92,10 +71,7 @@ Per Ski Resort in this city:
 +5 Money
 +3 Influence
 +5 Stability
-Counts as Commons Quarter
-",/Humankind-Culture-Viewer/Images/CultureSuperPack.png,Gebirgsspezialisten,"Does not replace any unit (no upgrade)
+Counts as Commons Quarter",/Humankind-Culture-Viewer/Images/CultureSuperPack.png,Gebirgsspezialisten,"Does not replace any unit (no upgrade)
 55 Combat Strength
 +3 Combat Strength when fighting a unit on a lower tile
-Stacks with normal bonus from elevation
-
-"
+Stacks with normal bonus from elevation"
