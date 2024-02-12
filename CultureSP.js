@@ -22,7 +22,7 @@ function displayData(data) {
 
     data.forEach(row => {
         // Check if the row data contains valid information
-        if (row['Culture Name'] && row['Affinity'] && row['Trait Effect'] && row['Emblematic District'] && row['Emblematic Unit']) {
+        if (row['Culture Name'] && row['Affinity'] && row['Trait Effect'] && row['Emblematic District']) {
             const card = document.createElement('div');
             card.className = 'card';
             card.innerHTML = `
