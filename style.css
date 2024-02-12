@@ -76,7 +76,7 @@ header {
 }
 
 .card {
-    width: 300px; /* Adjusted width to compensate for increased gap */
+    width: 400px; /* Adjusted width to compensate for increased gap */
     background-color: #444;
     color: #fff; /* White text */
     padding: 20px;
