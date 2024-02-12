@@ -10,7 +10,7 @@ document.addEventListener('DOMContentLoaded', function() {
 });
 
 async function loadTabData(era) {
-    const response = await fetch(`https://github.com/AdamJNew/CultureSuperPack_HCV/blob/a1e40a66d48ed0c2ddacd4f471716a4209024add/CultureSuperPack/CSP_${era}.csv`);
+    const response = await fetch(`https://raw.githubusercontent.com/AdamJNew/CultureSuperPack_HCV/main/CultureSuperPack/CSP_${era}.csv`);
     const csvText = await response.text();
     const data = Papa.parse(csvText, { header: true }).data;
     displayData(data);
