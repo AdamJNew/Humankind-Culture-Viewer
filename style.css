@@ -27,6 +27,7 @@ header {
 #tabs {
     display: flex;
     justify-content: center;
+	flex-direction: row;
     padding: 10px 0;
     background-color: #444;
 }
@@ -109,6 +110,9 @@ header {
     header {
         flex-direction: column;
     }
+	#tabs{
+		flex-direction: column;
+	}
 
     #menu a {
         margin-bottom: 10px;
