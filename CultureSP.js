@@ -10,7 +10,7 @@ document.addEventListener('DOMContentLoaded', function() {
 });
 
 async function loadTabData(era) {
-    const response = await fetch(`/Humankind-Culture-Viewer/Data/BaseGame/$CSP_{era}.csv`);
+    const response = await fetch(`/Humankind-Culture-Viewer/Data/CultureSuperPack/CSP_${era}.csv`);
     const csvText = await response.text();
     const data = Papa.parse(csvText, { header: true }).data;
     displayData(data);

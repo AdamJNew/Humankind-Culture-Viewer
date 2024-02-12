@@ -49,6 +49,15 @@ header {
     text-decoration: none;
 	color: #fff; /* White text */
 }
+#modpage {
+    display: flex;
+	padding: 10px;
+	background-color: #179832;
+    justify-content: center;
+    text-decoration: none;
+	color: #fff; /* White text */
+}
+
 #extrainfo {
     display: flex;
 	padding: 10px;
