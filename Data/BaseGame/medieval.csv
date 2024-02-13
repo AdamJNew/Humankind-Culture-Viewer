@@ -1,74 +1,110 @@
-"Culture Name","Affinity Image","Affinity","Trait Effect","Emblematic District Image","Emblematic District Name","Emblematic District","Emblematic Unit Image","Emblematic Unit Name","Emblematic Unit"
-"Aztecs","/Images/Affinity/militarist_affinity.png","Militarist","+2 Land Movement Speed on Unit
--20% on Unit Industry cost","/Images/Emblematic District/Medieval/aztecs_district.png","Sacrificial Altar","+5 Faith
+Culture Name,Affinity Image,Affinity,Trait Effect,Emblematic District Image,Emblematic District Name,Emblematic District,Emblematic Unit Image,Emblematic Unit Name,Emblematic Unit
+Aztecs,/Images/Affinity/militarist_affinity.png,Militarist,"+2 Land Movement Speed on Unit
+-20% on Unit Industry cost",/Images/Emblematic District/Medieval/aztecs_district.png,Sacrificial Altar,"+5 Faith
 +10 Stability
-+2 Influence from adjacent District","/Images/Emblematic Units/Medieval/aztecs_unit.png","Jaguar Warriors","Melee Close-combat Unit
++2 Influence from adjacent District",/Images/Emblematic Units/Medieval/aztecs_unit.png,Jaguar Warriors,"Melee Close-combat Unit
 No Combat Strength penalty from damage"
-"Bulgarians (DLC)","/Images/Affinity/diplomatic_affinity.png","Diplomatic","+5 Leverage against the defeated Empire in Battle won without losing Units","/Images/Emblematic District/Medieval/bulgarians_district.png","Knyaz Library","+3 Faith
+Bulgarians (DLC),/Images/Affinity/diplomatic_affinity.png,Diplomatic,+5 Leverage against the defeated Empire in Battle won without losing Units,/Images/Emblematic District/Medieval/bulgarians_district.png,Knyaz Library,"+3 Faith
 +3 Science
 +6 Influence when a Leverage Intel is collected
 +1 Stability per Territory following your State Religion
-+2 Turns before being converted by other's Religion on Territories","/Images/Emblematic Units/Medieval/bulgarians_unit.png","Bagaturi","Ranged-combat Unit
++2 Turns before being converted by other's Religion on Territories",/Images/Emblematic Units/Medieval/bulgarians_unit.png,Bagaturi,"Ranged-combat Unit
 Less effective when it can't see its target
 Receives a penalty (-8) when defending against close-combat attacks
 Combat Strength bonus (+?) after performing a ransack"
-"Byzantines","/Images/Affinity/merchant_affinity.png","Merchant","+5% Money per Alliance on all Cities","/Images/Emblematic District/Medieval/byzantines_district.png","Hippodromos","+2 Money per  (including those bought from others)
+Byzantines,/Images/Affinity/merchant_affinity.png,Merchant,+5% Money per Alliance on all Cities,/Images/Emblematic District/Medieval/byzantines_district.png,Hippodromos,"+2 Money per  (including those bought from others)
 +4 Money
 +25 Money per adjacent Horse deposit
 +1 Traders Slot on City or Outpost
--10 Stability","/Images/Emblematic Units/Medieval/byzantines_unit.png","Varangian Guards","Melee Close-combat Unit
+-10 Stability",/Images/Emblematic Units/Medieval/byzantines_unit.png,Varangian Guards,"Melee Close-combat Unit
 Prevents its Army from retreating"
-"English","/Images/Affinity/agrarian_affinity.png","Agrarian","+7 Food per number of attached Territories on City or Outpost","/Images/Emblematic District/Medieval/english_district.png","Stronghold","+5 Stability
+English,/Images/Affinity/agrarian_affinity.png,Agrarian,+7 Food per number of attached Territories on City or Outpost,/Images/Emblematic District/Medieval/english_district.png,Stronghold,"+5 Stability
 +20 District Fortification
 +3 Combat Strength in combat for Units in or adjacent to the District
-Increase the range by 2 for Ranged Units standing on it","/Images/Emblematic Units/Medieval/english_unit.png","Longbowmen","Ranged-combat Unit
+Increase the range by 2 for Ranged Units standing on it",/Images/Emblematic Units/Medieval/english_unit.png,Longbowmen,"Ranged-combat Unit
 Less effective when it can't see its target
 Receives a penalty (-8) when defending against close-combat attacks
 Unit can attack Units without a clear Line of Sight."
-"Franks","/Images/Affinity/aesthete_affinity.png","Aesthete","+10% Influence","/Images/Emblematic District/Medieval/franks_district.png","Scriptorium","+3 Faith
+Franks,/Images/Affinity/aesthete_affinity.png,Aesthete,+10% Influence,/Images/Emblematic District/Medieval/franks_district.png,Scriptorium,"+3 Faith
 -10 Stability
 +5 Science
 +2 Influence per adjacent Research Quarter
-+1 Researchers Slot on City or Outpost","/Images/Emblematic Units/Medieval/franks_unit.png","Franci Milites","Heavy Cavalry
++1 Researchers Slot on City or Outpost",/Images/Emblematic Units/Medieval/franks_unit.png,Franci Milites,"Heavy Cavalry
 Fast, hard-hitting mounted Unit able to charge enemies
 Receives bonus Combat Strength (+3) if attacking non-adjacent enemies
 Unable to climb Fortifications.
 Receives a higher Combat Strength bonus (+5) when charging"
-"Ghanaians","/Images/Affinity/merchant_affinity.png","Merchant","+2 Money per Number of accesses to Luxury Resources.
-+1 Money per Number of accesses to Strategic Resources.","/Images/Emblematic District/Medieval/ghanaians_district.png","Luxuries Market","+1 Money per Number of Trade Routes
+Ghanaians,/Images/Affinity/merchant_affinity.png,Merchant,"+2 Money per Number of accesses to Luxury Resources.
++1 Money per Number of accesses to Strategic Resources.",/Images/Emblematic District/Medieval/ghanaians_district.png,Luxuries Market,"+1 Money per Number of Trade Routes
 +5 Money
 -10 Stability
 +3 Money per adjacent Market Quarter
-+1 Traders Slot on City or Outpost","/Images/Emblematic Units/Medieval/ghanaians_unit.png","Meharists","Cavalry Close-combat Unit that ignores enemy zones of control
++1 Traders Slot on City or Outpost",/Images/Emblematic Units/Medieval/ghanaians_unit.png,Meharists,"Cavalry Close-combat Unit that ignores enemy zones of control
 Particularly good for running down Ranged Units
 Unable to climb Fortifications
 Bonus Combat Strength (+8) when fighting mounted Units"
-"Khmer","/Images/Affinity/builder_affinity.png","Builder","+3 Industry on Makers Quarter","/Images/Emblematic District/Medieval/khmer_district.png","Baray","+5 Food
+Khmer,/Images/Affinity/builder_affinity.png,Builder,+3 Industry on Makers Quarter,/Images/Emblematic District/Medieval/khmer_district.png,Baray,"+5 Food
 -10 Stability
 +4 Industry per adjacent River
-+1 Workers Slot on City or Outpost","/Images/Emblematic Units/Medieval/khmer_unit.png","Dhanv?-gaja","Ranged-combat Unit
++1 Workers Slot on City or Outpost",/Images/Emblematic Units/Medieval/khmer_unit.png,Dhanv?-gaja,"Ranged-combat Unit
 Less effective when it can't see its target
 Receives a penalty (-8) when defending against close-combat attacks
 Ignores penalties from fighting in melee"
-"Mississippians","/Images/Affinity/builder_affinity.png","Builder","+3 Industry on Industry-producing Districts built on a River
+Mississippians,/Images/Affinity/builder_affinity.png,Builder,"+3 Industry on Industry-producing Districts built on a River
 +3 Money on Money-producing Districts built on a River
-+3 Food on Food-producing Districts built on a River","/Images/Emblematic District/Medieval/mississippians_district.png","Sacred Mound","-50% Industry cost reduction of adjacent Districts
++3 Food on Food-producing Districts built on a River",/Images/Emblematic District/Medieval/mississippians_district.png,Sacred Mound,"-50% Industry cost reduction of adjacent Districts
 -10 Stability
 +3 Industry on Religious District
 +3 Faith on Religious District
-+2 Money per adjacent District","/Images/Emblematic Units/Medieval/mississippians_unit.png","Cahokia Raiders","Melee Close-combat Unit
++2 Money per adjacent District",/Images/Emblematic Units/Medieval/mississippians_unit.png,Cahokia Raiders,"Melee Close-combat Unit
 Each enemy Unit destroyed in battle increases this Unit's Ardor Combat Strength bonus (+2 per kill)
 The Ardor bonus lasts until the battle is over or this Unit is destroyed"
-"Mongols","/Images/Affinity/militarist_affinity.png","Militarist","+100% ransack gains on Army
+Mongols,/Images/Affinity/militarist_affinity.png,Militarist,"+100% ransack gains on Army
 -25% on Vassalize cost
-Cannot evolve Outposts into Cities during this Era","/Images/Emblematic District/Medieval/mongols_district.png","Orda","Automatically upgrades regular Outpost
-They cannot be attached to Cities in this Era.","/Images/Emblematic Units/Medieval/mongols_unit.png","Mongol Horde","Nomad Special Unit that gathers Food through fighting and ransacking in order to multiply
+Cannot evolve Outposts into Cities during this Era",/Images/Emblematic District/Medieval/mongols_district.png,Orda,"Automatically upgrades regular Outpost
+They cannot be attached to Cities in this Era.",/Images/Emblematic Units/Medieval/mongols_unit.png,Mongol Horde,"Nomad Special Unit that gathers Food through fighting and ransacking in order to multiply
 Unable to climb Fortifications
 Cannot be added to a regular Army
 Can move until all Movement Points are depleted, ignoring zones of control"
-"Norsemen","/Images/Affinity/militarist_affinity.png","Militarist","","","","","","",""
-"Rapa Nui (DLC)","/Images/Affinity/builder_affinity.png","Builder","","","","","","",""
-"Swahili (DLC)","/Images/Affinity/merchant_affinity.png","Merchant","","","","","","",""
-"Taino (DLC)","/Images/Affinity/agrarian_affinity.png","Agrarian","","","","","","",""
-"Teutons","/Images/Affinity/expansion_affinity.png","Expansionist","","","","","","",""
-"Umayyads","/Images/Affinity/scientist_affinity.png","Scientist","","","","","","",""
+Norsemen,/Images/Affinity/militarist_affinity.png,Militarist,"+3 Naval Movement Speed on Naval Units
++2 Combat Strength on Naval Units",/Images/Emblematic District/Medieval/norsemen_district.png,Naust,"-10 Stability
++5 Food per adjacent Coastal Water
++5 Food per adjacent Lake
++50 Money from ransack on Empire
++1 Farmers Slot on City or Outpost",/Images/Emblematic Units/Medieval/norsemen_unit.png,Langskip,"Naval Unit that replaces Land Units which embark to travel across Ocean tiles
+Movement Points are reduced to 2 when in Battle
+Ignores any penalties from deep water"
+Rapa Nui (DLC),/Images/Affinity/builder_affinity.png,Builder,"+1 Industry on Coastal Water
+Applies Makemake's Eye (+50 per Era) for 5 turns to newly created Cities",/Images/Emblematic District/Medieval/rapa_nui_district.png,Moai,"District has 3 levels, Level 3 is listed below
++15 Influence
++15 Food
+-10 Stability
++15 Faith",/Images/Emblematic Units/Medieval/rapa_nui_unit.png,Maori Tangata,"Melee close-combat Unit
+Gain bonus Combat Strength (+8) when attacking an enemy Unit behind City Walls"
+Swahili (DLC),/Images/Affinity/merchant_affinity.png,Merchant,"+10 Stability on Harbor
++10 Stability on District adjacent to Harbor",/Images/Emblematic District/Medieval/swahili_district.png,Bandari,"+3 Money per Number of unique types of Resources available
+Allows construction of new Districts on adjacent Tiles",/Images/Emblematic Units/Medieval/swahili_unit.png,Mtepe,"Naval Unit that replaces Land Units which embark to travel across Ocean tiles
+Movement Points are reduced to 2 when in Battle
+Allows embarking and disembarking instantly, but is damaged (-35 Health per turn) by spending consecutive turns on Ocean tiles"
+Taino (DLC),/Images/Affinity/agrarian_affinity.png,Agrarian,"+3 Food per Number of Territories in your sphere of influence on all Cities
++2 Food on Commons Quarter",/Images/Emblematic District/Medieval/taino_district.png,Batey,"+10 Stability
++10 Influence on Settled City",/Images/Emblematic Units/Medieval/taino_unit.png,Baira Hunters,"Ranged-combat Unit
+Less effective when it can't see its target
+Receives a penalty (-8) when defending against close-combat attacks
+Unit can attack Units without a clear Line of Sight
+This Unit receives no penalties from Rivers"
+Teutons,/Images/Affinity/expansion_affinity.png,Expansionist,"+1 Money per State Religion Follower
++1 Science per State Religion Follower",/Images/Emblematic District/Medieval/teutons_district.png,Kaiserdom,"+1 Faith per District
++3 Faith per adjacent District
++3 Influence
+-10 Stability",/Images/Emblematic Units/Medieval/teutons_unit.png,Teutonic Knights,"Fast, hard-hitting mounted Unit able to charge enemies
+Receives bonus Combat Strength (+3) if attacking non-adjacent enemies
+Unable to climb Fortifications
+Bonus Combat Strength (+3) against enemies with different State Religion"
+Umayyads,/Images/Affinity/scientist_affinity.png,Scientist,+5% Science per Alliance on all Cities,/Images/Emblematic District/Medieval/umayyads_district.png,Grand Mosque,"+3 Science per Number of attached Territories
++5 Faith
+-10 Stability
++1 Researchers Slot on City or Outpost",/Images/Emblematic Units/Medieval/umayyads_unit.png,Haras,"Cavalry close-combat Unit that ignores enemy zones of control
+Particularly good for running down Ranged Units
+Unable to climb Fortifications
+Drains additional Stability during Sieges"
