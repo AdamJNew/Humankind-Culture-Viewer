@@ -1,0 +1,40 @@
+Culture Name,Affinity Image,Affinity,Trait Effect,Emblematic District Image,Emblematic District Name,Emblematic District,Emblematic Unit Image,Emblematic Unit Name,Emblematic Unit
+Caribbean Pirates,,Militarist,"+2% Food on all Cities per Army Poaching Resources
++2% Industry on all Cities per Army Poaching Resources
++2% Money on all Cities per Army Poaching Resources
++2% Science on all Cities per Army Poaching Resources
++2 Combat Strength on Outlaw
++10 Health Regeneration on Unit if Army Poaching Resources",/Images/Emblematic Units/Medieval/caribbean_pirates_unit.png,No District,No District (2 Units),/Images/Emblematic Units/Medieval/caribbean_pirates_unit2.png,Buccaneers & Sloop,"
+<b> Buccaneers</b>
+Gunner ranged-combat Unit
+Fights at full Combat Strength even when defending against close-combat attacks
+With Entrenching Tool, gains ""Dug-In"" status if they do not move during their Battle round
+
+<b>Sloop</b>
+Escort Ship - Fast, cheaper ship used for reconnaissance and escorting Capital Ships.
+Gain bonus Combat Strength (+6) when attacking enemies at close range"
+Dutch,,Merchant,+1 Money per Population on all Cities,/Images/Emblematic District/Medieval/dutch_district.png,V.O.C Warehouse,"+1 Money
++20 Money per adjacent Harbor
+-10 Stability
++2 Money per Traders on City or Outpost
++1 Traders Slot on City or Outpost",/Images/Emblematic Units/Medieval/dutch_unit.png,Fluyt,"Naval Unit that replaces Land Units which embark to travel across Ocean tiles
+Movement Points are reduced to 2 when in Battle
+Increased Movement speed (+4) when starting its turn in an allied Territory"
+Edo Japanese,,Aesthete,+1 Influence per Population on City or Outpost,/Images/Emblematic District/Medieval/edojapanese_district.png,Tera,"+3 Faith
+-10 Stability
++2 Influence
++5 Influence per adjacent Mountain",/Images/Emblematic Units/Medieval/edojapanese_unit.png,Naginata Samurai,"Anti-Cavalry close-combat Unit
+Receives bonus Combat Strength (+8) when fighting mounted enemies
+Prevents its Army from retreating"
+Haudenosaunee,,Agrarian,,,,,,,
+Inca (DLC),,Expansionist,,,,,,,
+Joseon,,Scientist,,,,,,,
+Maasai (DLC),,Agrarian,,,,,,,
+Maori (DLC),,Militarist,,,,,,,
+Ming,,Aesthete,,,,,,,
+Mughals,,Builder,,,,,,,
+Ottomans,,Expansionist,,,,,,,
+Poles,,Militarist,,,,,,,
+Spanish,,Expansionist,,,,,,,
+Swiss (DLC),,Diplomatic,,,,,,,
+Venetians,,Merchant,,,,,,,
