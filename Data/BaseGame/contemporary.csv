@@ -2,18 +2,18 @@ Culture Name,Affinity Image,Affinity,Trait Effect,Emblematic District Image,Embl
 Americans,/Images/Affinity/expansion_affinity.png,Expansionist,"+3 Influence on Resource access being sold
 +1 Money generated from on-going Trade on City or Outpost",/Images/Emblematic District/Contemporary/americans_district.png,Defense Agency,"+2 Combat Strength when launching Artillery, Air or Missile Strikes
 +5 Money on Garrison
-+5 Science on Garrison",/Images/Emblematic Unit/Contemporary/americans_unit.png,Lightning,"Versatile Aircraft Unit
++5 Science on Garrison",/Images/Emblematic Units/Contemporary/americans_unit.png,Lightning,"Versatile Aircraft Unit
 Able to bypass anti-air defenses and perform anonymous strikes as long as they have stealth"
-Australians,/Images/Affinity/builder_affinity.png,Builder,+20% Industry on all Cities,/Images/Emblematic District/Contemporary/australians_distrct.png,Strip Mining Complex,"+10 Industry
+Australians,/Images/Affinity/builder_affinity.png,Builder,+20% Industry on all Cities,/Images/Emblematic District/Contemporary/australians_district.png,Strip Mining Complex,"+10 Industry
 +15 Pollution
 -10 Stability
 +50 Industry per adjacent Strategic Resource deposit
-+1 Worker Slot on City or Outpost",/Images/Emblematic Unit/Contemporary/australians_unit.png,All Terrain PMV,"Armoured Vehicle
++1 Worker Slot on City or Outpost",/Images/Emblematic Units/Contemporary/australians_unit.png,All Terrain PMV,"Armoured Vehicle
 Immune to Suppression, Ignores all terrain movement penalties."
 Brazilians,/Images/Affinity/agrarian_affinity.png,Agrarian,+3 Food on tiles producing Food,/Images/Emblematic District/Contemporary/brazilians_district.png,Agronomy Lab,"+1 Food per Population
 +3 Food and Science per adjacent Farmers Quarter
 +1 Farmer and Researchers Slot on City or Outpost
--10 Stability",/Images/Emblematic Unit/Contemporary/brazilians_unit.png,Jungle Brigades,"Gunner Ranged Combat Unit
+-10 Stability",/Images/Emblematic Units/Contemporary/brazilians_unit.png,Jungle Brigades,"Gunner Ranged Combat Unit
 Fights at full Combat Strength even when defending against close-combat attacks
 With Entrenching Tool, gains ""Dug-In"" status if they do not move during their Battle round
 Stealth
@@ -21,7 +21,7 @@ Provides increased ambusher bonuses (Combat Strength) when on forest Tiles"
 Chinese,/Images/Affinity/merchant_affinity.png,Merchant,+15% Money on all Cities,/Images/Emblematic District/Contemporary/chinese_district.png,Congress,"+7 Money per number of attached Territories
 -10 Stability 
 +3 Influence per adjacent Market Quarter
-+1 Farmer, Worker, Trader & Researcher Slot on City or Outpost",/Images/Emblematic Unit/Contemporary/chinese_unit.png,Guardians,"Heavy Weapon Ranger combat Unit
++1 Farmer, Worker, Trader & Researcher Slot on City or Outpost",/Images/Emblematic Units/Contemporary/chinese_unit.png,Guardians,"Heavy Weapon Ranger combat Unit
 Cannot retaliate when attached by a close combat Unit.
 With Entrenching Tool, gains ""Dug-In"" status if they do not move during their Battle round.
 Can user the bombard action twice per turn. Removes ""Dug-In"" Status on Target.
@@ -33,7 +33,7 @@ Cubans (DLC),/Images/Affinity/aesthete_affinity.png,Aesthete,"+1 Comabt Strength
 +5 Industry per Worker on Settled City
 +5 Money per Trader on Settled City
 +5 Science per Researchers on Settled City
-+10 Stability per Pharmaceuticals on all Cities",/Images/Emblematic Unit/Contemporary/cubans_unit.png,Guerrilleros,"Gunner Ranged-combat Unit
++10 Stability per Pharmaceuticals on all Cities",/Images/Emblematic Units/Contemporary/cubans_unit.png,Guerrilleros,"Gunner Ranged-combat Unit
 Fights at full Combat Strength even when defending against close-combat attacks
 With Entrenching Tool, gains ""Dug-In"" status if they do not move during their Battle round
 Stealth
@@ -41,14 +41,14 @@ Apply a Stability penalty when standing on a hostile City Territory"
 Egyptians,/Images/Affinity/aesthete_affinity.png,Aesthete,+4 Influence on Emblematic District,/Images/Emblematic District/Contemporary/egyptians_district.png,Archaeological Dig,"+3 Influence per adjacent District
 +3 Influence on Emblematic District
 +3 Science on Cultural Wonder
--10 Stablity on City",/Images/Emblematic Unit/Contemporary/egyptians_unitpng,Free Officers,"Gunner Ranged-combat Unit
+-10 Stablity on City",/Images/Emblematic Units/Contemporary/egyptians_unitpng,Free Officers,"Gunner Ranged-combat Unit
 Fights at full Combat Strength even when defending against close-combat attacks
 With Entrenching Tool, gains ""Dug-In"" status if they do not move during their Battle round
 Allied Units gain a Combat Strength bonus (+3) when attacking stronger Units"
 Indians,/Images/Affinity/aesthete_affinity.png,Aesthete,"+5 Influence on Territory
 +3% Money per Number of Territories in your sphere of influence on Capital",/Images/Emblematic District/Contemporary/indians_district.png,Ashram,"+5 Influence
 +3 Faith per adjacent District
-+1 Money & Science on Religious District",/Images/Emblematic Unit/Contemporary/indians_unit.png,Peacekeepers,"Gunner Ranged-combat Unit
++1 Money & Science on Religious District",/Images/Emblematic Units/Contemporary/indians_unit.png,Peacekeepers,"Gunner Ranged-combat Unit
 Fights at full Combat Strength even when defending against close-combat attacks
 With Entrenching Tool, gains ""Dug-In"" status if they do not move during their Battle round
 Bonus Combat Strength for each war declared on their owner"
@@ -58,13 +58,13 @@ Japanese,/Images/Affinity/scientist_affinity.png,Scientist,-20% on all Technolog
 +5 Science
 +2 Industry on Makers Quarters within the same Territory
 +2 Science on Research Quarters within the same Territory
-+1 Workers & Researchers Slot on City or Outpost",/Images/Emblematic Unit/Contemporary/japanese_unit.png,Reisen,"Fighter Patrol Aircraft Unit
++1 Workers & Researchers Slot on City or Outpost",/Images/Emblematic Units/Contemporary/japanese_unit.png,Reisen,"Fighter Patrol Aircraft Unit
 Able to provide vision and counter enemy aircraft. Can Also strike ground targers with reduced efficiency
 Destroy if a single attack ever removeds more then half of the Units health."
 Nigerians (DLC),/Images/Affinity/agrarian_affinity.png,Agrarian,"+3 Industry per Farmers on City
 +1 Farmers Slot on all Cities if Oil Deposit",/Images/Emblematic District/Contemporary/nigerians_district.png,Oil Refinery,"+10 Pollution
 -10 Stability
-Creates a new Deposit of Oil which is automatically exploited",/Images/Emblematic Unit/Contemporary/nigerians_unit.png,Mrap Vehicle ,"Armoured Vehicle
+Creates a new Deposit of Oil which is automatically exploited",/Images/Emblematic Units/Contemporary/nigerians_unit.png,Mrap Vehicle ,"Armoured Vehicle
 Immune to Suppression
 The Targeted Unit cannot move next turn"
 New Zealanders (DLC),/Images/Affinity/scientist_affinity.png,Scientist,+20 Science on Coastal Water,/Images/Emblematic District/Contemporary/zealanders_district.png,Polar Base & Sailing Club,"+5 Influence per Researchers
@@ -80,7 +80,7 @@ Cannot evolve Outposts into Cities during this Era",/Images/Emblematic District/
 +4 Industry & +1 Worker Slot per adjacent Industry Quarter
 +4 Money & +1 Traders Slot per adjacent Market Quarter
 +4 Science & +1 Researchers Slot per adjacent Research Quarter
-+4 Influence per adjacent Commons Quarter",/Images/Emblematic Unit/Contemporary/singaporeans_unit.png,Reservists,"Gunner Ranged-combat Unit
++4 Influence per adjacent Commons Quarter",/Images/Emblematic Units/Contemporary/singaporeans_unit.png,Reservists,"Gunner Ranged-combat Unit
 Fights at full Combat Strength even when defending against close-combat attacks
 With Entrenching Tool, gains ""Dug-In"" status if they do not move during their Battle round
 Appears automatically to defend your cities from attack. Gains a Guardian combat strength bonus (+3 versus melee attacks) when accupying a District tile
@@ -95,18 +95,18 @@ Diversification Effects
 +2 Combat Strength on unit
 Cumulative Effects
 -10 Stablity on all Cities
-+10% militia units spawned when a city is under siege per weapons on all cities. ",/Images/Emblematic Unit/Contemporary/soviets_unit.png,Red Army Tank,"Armoured Vehicle
++10% militia units spawned when a city is under siege per weapons on all cities. ",/Images/Emblematic Units/Contemporary/soviets_unit.png,Red Army Tank,"Armoured Vehicle
 Immune to Suppression
 Regenerates Health after a Battle"
 Swedes,/Images/Affinity/scientist_affinity.png,Scientist,"+1 Science per District on all Cities
 +3 Science on Research Quarter",/Images/Emblematic District/Contemporary/swedes_district.png,Research quarter,"+3 Science per District
 -10 Stability
-+3 Science per adjacent Research Quarter",/Images/Emblematic Unit/Contemporary/swedes_unit.png,Stealth Corvette,"Armoured Vessel
++3 Science per adjacent Research Quarter",/Images/Emblematic Units/Contemporary/swedes_unit.png,Stealth Corvette,"Armoured Vessel
 Immune to Suppression
 Stealth"
 Turks,/Images/Affinity/agrarian_affinity.png,Agrarian,+3 Food per Population on all Cities,/Images/Emblematic District/Contemporary/turks_district.png,Public School,"+1 Science per Farmers Slot
 +5% Science per adjacent Research Quarter
 -10 Stability
-+1 Researchers Slot on City or Outpost",/Images/Emblematic Unit/Contemporary/turks_unit.png,Stealthy Operative Missile,"Missile 
++1 Researchers Slot on City or Outpost",/Images/Emblematic Units/Contemporary/turks_unit.png,Stealthy Operative Missile,"Missile 
 Consumed to perform a single strike action on a distant target
 Able to bypass Anti-air defenses and perform anonymous strikes as long as they (Operative Missile) have any Stealth"
