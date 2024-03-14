@@ -10,7 +10,7 @@ document.addEventListener('DOMContentLoaded', function() {
             loadTabData(tab.getAttribute('data-era'));
 
             // Apply the active style to the clicked tab
-            tab.style.color = 'blue';
+            tab.style.color = '#32beec';
         });
     });
     // Automatically load data for the "ancient-era" tab.
