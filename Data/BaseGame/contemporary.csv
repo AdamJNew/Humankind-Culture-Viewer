@@ -41,7 +41,7 @@ Apply a Stability penalty when standing on a hostile City Territory"
 Egyptians,/Images/Affinity/aesthete_affinity.png,Aesthete,+4 Influence on Emblematic District,/Images/Emblematic District/Contemporary/egyptians_district.png,Archaeological Dig,"+3 Influence per adjacent District
 +3 Influence on Emblematic District
 +3 Science on Cultural Wonder
--10 Stablity on City",/Images/Emblematic Units/Contemporary/egyptians_unitpng,Free Officers,"Gunner Ranged-combat Unit
+-10 Stablity on City",/Images/Emblematic Units/Contemporary/egyptians_unit.png,Free Officers,"Gunner Ranged-combat Unit
 Fights at full Combat Strength even when defending against close-combat attacks
 With Entrenching Tool, gains ""Dug-In"" status if they do not move during their Battle round
 Allied Units gain a Combat Strength bonus (+3) when attacking stronger Units"
