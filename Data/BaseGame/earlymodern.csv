@@ -26,15 +26,92 @@ Edo Japanese,/Images/Affinity/aesthete_affinity.png,Aesthete,+1 Influence per Po
 +5 Influence per adjacent Mountain",/Images/Emblematic Units/EarlyModern/edojapanese_unit.png,Naginata Samurai,"Anti-Cavalry close-combat Unit
 Receives bonus Combat Strength (+8) when fighting mounted enemies
 Prevents its Army from retreating"
-Haudenosaunee,,Agrarian,,,,,,,
-Inca (DLC),,Expansionist,,,,,,,
-Joseon,,Scientist,,,,,,,
-Maasai (DLC),,Agrarian,,,,,,,
-Maori (DLC),,Militarist,,,,,,,
-Ming,,Aesthete,,,,,,,
-Mughals,,Builder,,,,,,,
-Ottomans,,Expansionist,,,,,,,
-Poles,,Militarist,,,,,,,
-Spanish,,Expansionist,,,,,,,
-Swiss (DLC),,Diplomatic,,,,,,,
-Venetians,,Merchant,,,,,,,
+Haudenosaunee,/Images/Affinity/agrarian_affinity.png,Agrarian,+1 Food on Exploitation,/Images/Emblematic District/EarlyModern/haudenosaunee_district.png,Three Sisters Plantation,"+5 Food per number of attached Territories
+-10 Stability
++3 Food per adjacent Farmers Quarter
++1 Farmers Slot on City or Outpost",/Images/Emblematic Units/EarlyModern/haudenosaunee_unit.png,Rotiskenrakehte,"Ranged-combat Unit
+With Entrenching Tool, gains ""Dug-In"" status if they do not move during their Battle round
+Able to enter any foreign Territory and remain Concealed as long as they have any Stealth
+In Battle, they are invisible until attacking or adjacent to enemy Units"
+Inca (DLC),/Images/Affinity/expansion_affinity.png,Expansionist,"+50% Road Movement Speed on Unit
++3 Food on Districts per adjacent Mountain",/Images/Emblematic District/EarlyModern/inca_district.png,Terrace Farm,"Allows construction of new Districts on adjacent Tiles
+-10 Stability
++2 Vision Range
++3 Food per adjacent Mountain
+-25% Territory Attachment Cost on adjacent Territories",/Images/Emblematic Units/EarlyModern/inca_unit.png,Sapa Inca Guards,"Anti-Cavalry
+Close-combat Unit
+This Unit is much stronger (+6) when fighting from high ground and fortified positions"
+Joseon,/Images/Affinity/scientist_affinity.png,Scientist,+3 Science on Tile producing Science,/Images/Emblematic District/EarlyModern/joseon_district.png,Seowon,"+2 Influence
+-10 Stability
++2 Science
++3 Science per adjacent Research Quarter
++1 Science per Researchers on City or Outpost
++1 Researchers Slot on City or Outpost",/Images/Emblematic Units/EarlyModern/joseon_unit.png,Geobukseon,"Escort Ship
+Fast, cheaper ship used for reconnaissance and escorting
+Increased Movement speed in battle and has bonus Combat Strength (+5) against adjacent targets"
+Maasai (DLC),/Images/Affinity/agrarian_affinity.png,Agrarian,-25% Population consumption on all Cities,/Images/Emblematic District/EarlyModern/maasai_district.png,Enkang,"+5 Food per adjacent Exploitation
+-10 Stability",/Images/Emblematic Units/EarlyModern/maasai_unit.png,Maasai Morans,"Ranged-combat Unit
+Less effective when it can't see its target
+Bonus Combat Strength (+8) against damaged targets"
+Maori (DLC),/Images/Affinity/militarist_affinity.png,Militarist,"+30 Stability per number of ongoing War on all Cities
+-5 Upkeep per number of ongoing War on Unit (Note: The upkeep stays at 0 after it reaches it, it's unable to go into the positives.)
++1 Combat Strength per number of ongoing War on Unit",/Images/Emblematic District/EarlyModern/maori_district.png,Pa,"Allows construction of new Districts on adjacent Tiles
++5 Food
++10 District Fortification
++15 Stability
++2 Combat Strength in combat for Units in or adjacent to the District
++20 District Fortification on adjacent Tiles",/Images/Emblematic Units/EarlyModern/maori_unit.png,Waka Taua,"Naval Unit that replaces Land Units which embark to travel across Ocean tiles
+Ignores any penalties from deep water
+After moving in Battle, this Unit receives bonus Combat Strength (+8) for defense"
+Ming,/Images/Affinity/aesthete_affinity.png,Aesthete,"-25% cost of enacting Civic
+-25% cost of canceling Civic
++10Influence per number of enacted Civics",/Images/Emblematic District/EarlyModern/ming_district.png,Grand Teahouse,"+1 Influence per Districts in Territory
++2 Influence per adjacent District",/Images/Emblematic Units/EarlyModern/ming_unit.png,Rocket Cart,"Heavy Weapon
+Ranged-combat Unit
+The targeted Unit cannot move next turn"
+Mughals,/Images/Affinity/builder_affinity.png,Builder,+2% Industry per number of Territories in your Sphere of Influence on Capital,/Images/Emblematic District/EarlyModern/mughals_district.png,Jama Masjid,"+1 Faith per Population
++1 Industry per Workers
++4 Influence
++3 Industry
++3 Industry per adjacent Makers Quarter
+-10 Stability",/Images/Emblematic Units/EarlyModern/mughals_unit.png,Gajnal,"Gunner
+Ranged-combat Unit
+Can perform a full move after making an attack"
+Ottomans,/Images/Affinity/expansion_affinity.png,Expansionist,"-50% on Heavy Weapon Industry cost
++3 Combat Strength on Heavy Weapon",/Images/Emblematic District/EarlyModern/ottomans_district.png,Sultan Camii,"+1 Faith per District
++3 Influence
+-10 Stability
++3 Influence per adjacent District",/Images/Emblematic Units/EarlyModern/ottomans_unit.png,Janissaries,"Gunner
+Ranged-combat Unit
+Bonus Combat Strength (+3) when participating in an assault or sortie"
+Poles,/Images/Affinity/militarist_affinity.png,Militarist,"+10 District Fortification on District
++2 Stability on District",/Images/Emblematic District/EarlyModern/poles_district.png,Barbican,"+2 Influence
++20 District Fortification
++8 Stability
++3 Combat Strength in combat for Units in or adjacent to the District",/Images/Emblematic Units/EarlyModern/poles_unit.png,Winged Hussars,"Heavy Cavalry
+Fast, hard-hitting mounted Unit able to charge enemies
+When charging the target cannot retaliate"
+Spanish,/Images/Affinity/expansion_affinity.png,Expansionist,+3 Combat Strength on Unsupplied Units,/Images/Emblematic District/EarlyModern/spanish_district.png,Catedral Gótica,"+1 Faith per Population
++3 Faith per adjacent District
++5 Stability",/Images/Emblematic Units/EarlyModern/spanish_unit.png,Conquistadores,"Gunner
+Ranged-combat Unit
+Generates additional Money (double) from winning battles and ransacking"
+Swiss (DLC),/Images/Affinity/diplomatic_affinity.png,Diplomatic,"+100% Army upkeep on any non-allied Units in your Territories
++100% Leverage from Units in demilitarized Territories",/Images/Emblematic District/EarlyModern/swiss_district.png,Watchmakers Guild,"+1 Money per Era
+-10 Stability
++2 Farmers Slot per adjacent Farmers Quarter
++2 Workers Slot per adjacent Makers Quarter
++2 Traders Slot per adjacent Market Quarter
++2 Researchers Slot per adjacent Research Quarter",/Images/Emblematic Units/EarlyModern/swiss_unit.png,Reislaufer,"Anti-Cavalry
+Close-combat Unit
+When provided to other Empires through the Arms Deal Agreement, this Unit costs 10% less to build, and generates more income for its original Empire, per active Agreement
+Stronger (+?) when defending"
+Venetians,/Images/Affinity/merchant_affinity.png,Merchant,"+1 Money per number of Trade Routes
++2 Money per number of Naval Trade Route
++1 Influence per number of Trade Routes",/Images/Emblematic District/EarlyModern/venetians_district.png,Botteghe Di Artisti,"+4 Influence
++2 Money
++2 Influence per adjacent District
++1 Money on Tile producing Money
+-10 Stability",/Images/Emblematic Units/EarlyModern/venetians_unit.png,Galleass,"Escort Ship
+Fast, cheaper ship used for reconnaissance and escorting
+Much higher Combat Strength (+11) when in Coastal Waters"
