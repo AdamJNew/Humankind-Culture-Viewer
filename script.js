@@ -58,6 +58,6 @@ function applyInitialTabStyle() {
     // Find the initial tab, you might need to adjust the selector based on your HTML structure
     const initialTab = document.querySelector('.tab[data-era="ancient"]');
     if (initialTab) {
-        initialTab.style.color = 'blue';
+        initialTab.style.color = '#32beec';
     }
 }
