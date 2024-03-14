@@ -3,12 +3,21 @@
 document.addEventListener('DOMContentLoaded', function() {
     document.querySelectorAll('.tab').forEach(function(tab) {
         tab.addEventListener('click', function() {
+            // Remove the active class from all tabs and reset their color
+            resetTabStyles();
 
+            // Load the data for the clicked tab
             loadTabData(tab.getAttribute('data-era'));
+
+            // Apply the active style to the clicked tab
+            tab.style.color = 'blue';
         });
     });
-	// Automatically load data for the "ancient-era" tab.
+    // Automatically load data for the "ancient-era" tab.
     loadTabData('ancient');
+
+    // Apply the initial style to the "ancient-era" tab
+    applyInitialTabStyle();
 });
 
 async function loadTabData(era) {
@@ -37,4 +46,18 @@ function displayData(data) {
             contentDiv.appendChild(card);
         }
     });
+}
+
+function resetTabStyles() {
+    document.querySelectorAll('.tab').forEach(function(tab) {
+        tab.style.color = ''; // Reset to default color, you can change this as needed
+    });
+}
+
+function applyInitialTabStyle() {
+    // Find the initial tab, you might need to adjust the selector based on your HTML structure
+    const initialTab = document.querySelector('.tab[data-era="ancient"]');
+    if (initialTab) {
+        initialTab.style.color = 'blue';
+    }
 }
