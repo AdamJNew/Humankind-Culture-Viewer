@@ -8,7 +8,7 @@ document.addEventListener('DOMContentLoaded', function() {
         });
     });
 	// Automatically load data for the "ancient-era" tab.
-    loadTabData('ancient-era');
+    loadTabData('ancient');
 });
 
 async function loadTabData(era) {
