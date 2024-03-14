@@ -1,5 +1,10 @@
 Culture Name,Affinity Image,Affinity,Trait Effect,Emblematic District Image,Emblematic District Name,Emblematic District,Emblematic Unit Image,Emblematic Unit Name,Emblematic Unit
-Argentinians (DLC),/Images/Affinity/merchant_affinity.png,Merchant,,,,,,,
+Argentinians (DLC),/Images/Affinity/merchant_affinity.png,Merchant,"+1 Farmers Slot on City or Outpost per Luxury Resource Deposit
++1 Traders Slot on City or Outpost per Strategic Resource Deposit",/Images/Emblematic District/Industrial/argentinians_district.png,Saladero,"-10% Army Upkeep on Army
+Creates a new Deposit of Salted Beef which is automatically exploited
++5 Stability (per ) on all Cities
+-1% Army Upkeep (per ) on Army",/Images/Emblematic Units/Industrial/argentinians_unit.png,Gauchos,"Ranged-combat Unit
+The first attack in a battle from this Unit will also apply the Suppression status (-5, cannot move next turn) to its target"
 Austro-Hungarians,/Images/Affinity/aesthete_affinity.png,Aesthete,,,,,,,
 British,/Images/Affinity/expansion_affinity.png,Expansionist,,,,,,,
 Ethiopians (DLC),/Images/Affinity/militarist_affinity.png,Militarist,,,,,,,
