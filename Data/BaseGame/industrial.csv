@@ -5,17 +5,88 @@ Creates a new Deposit of Salted Beef which is automatically exploited
 +5 Stability (per ) on all Cities
 -1% Army Upkeep (per ) on Army",/Images/Emblematic Units/Industrial/argentinians_unit.png,Gauchos,"Ranged-combat Unit
 The first attack in a battle from this Unit will also apply the Suppression status (-5, cannot move next turn) to its target"
-Austro-Hungarians,/Images/Affinity/aesthete_affinity.png,Aesthete,,,,,,,
-British,/Images/Affinity/expansion_affinity.png,Expansionist,,,,,,,
-Ethiopians (DLC),/Images/Affinity/militarist_affinity.png,Militarist,,,,,,,
-French,/Images/Affinity/scientist_affinity.png,Scientist,,,,,,,
-Germans,/Images/Affinity/militarist_affinity.png,Militarist,,,,,,,
-Hawaiians (DLC),/Images/Affinity/agrarian_affinity.png,Agrarian,,,,,,,
-Italians,/Images/Affinity/aesthete_affinity.png,Aesthete,,,,,,,
-Mexicans,/Images/Affinity/agrarian_affinity.png,Agrarian,,,,,,,
-Persians,/Images/Affinity/builder_affinity.png,Builder,,,,,,,
-Russians,/Images/Affinity/expansion_affinity.png,Expansionist,,,,,,,
-Scots (DLC),/Images/Affinity/diplomatic_affinity.png,Diplomatic,,,,,,,
-Siamese,/Images/Affinity/builder_affinity.png,Builder,,,,,,,
-Zulu,/Images/Affinity/militarist_affinity.png,Militarist,,,,,,,
-,,,,,,,,,
+Austro-Hungarians,/Images/Affinity/aesthete_affinity.png,Aesthete,"+1 Influence on District
++1 Influence on Emblematic District",/Images/Emblematic District/Industrial/austro_hungarians_district.png,Opernhaus,"+5 Influence
++2 Stability per adjacent District
++1 Stability per District in Territory",/Images/Emblematic Units/Industrial/austro_hungarians_unit.png,Evidenzbureau Agents,"Ranged-combat Unit
+Ignores all terrain Movement penalties
+Able to enter any foreign Territory and remain Concealed as long as they have any Stealth
+In Battle, they are invisible until attacking or adjacent to enemy Units"
+British,/Images/Affinity/expansion_affinity.png,Expansionist,"+10 Money per number of attached Territories on Capital
++10 Science per number of attached Territories on Capital",/Images/Emblematic District/Industrial/british_district.png,Colonial Office,"+10 Money
++10 Money for Liege
+Per adjacent District:
++2 Money
++2 Money for Liege",/Images/Emblematic Units/Industrial/british_unit.png,Redcoats,"Gunner Ranged-combat Unit
+Regenerates Health (+20 Health per ) when outside of your Territory"
+Ethiopians (DLC),/Images/Affinity/militarist_affinity.png,Militarist,"+10 Science on Garrison
++1 Science per Combat Strength of hostile Units within your borders",/Images/Emblematic District/Industrial/ethiopians_district.png,Amba,Increases the Movement cost of hostile Armies with in a range of 2 Tile,/Images/Emblematic Units/Industrial/ethiopians_unit.png,Oromo Cavalry,"Gunner Ranged-combat Unit
+Bonus Combat Strength (+1 per level) from Veterancy levels"
+French,/Images/Affinity/scientist_affinity.png,Scientist,+10% Science on all Cities,/Images/Emblematic District/Industrial/french_district.png,Exhibition Hall,"+2 Science per number of Trade Routes on City or Outpost
+-10 Stability
++5 Influence per adjacent District",/Images/Emblematic Units/Industrial/french_unit.png,Cuirassiers,"Heavy Cavalry
+Receives a much higher Combat Strength bonus (+7) when charging"
+Germans,/Images/Affinity/militarist_affinity.png,Militarist,"+3 Combat Strength on Naval Unit
++3 Combat Strength on Air Unit
+-20% on Unit Industry cost",/Images/Emblematic District/Industrial/germans_district.png,Coking Works,"+1 Industry per Population
++3 Industry per adjacent Makers Quarter
++10 Pollution
++1 Workers Slot on City or Outpost
+-10 Stability",/Images/Emblematic Units/Industrial/germans_unit.png,Uboat,"Torpedo Vessel - Cheap glass cannon meant to destroy Capital Ships
+Able to enter any foreign Territory and remain Concealed as long as they have any Stealth
+Receives a very high Combat Strength bonus when attacking Capital Ships"
+Hawaiians (DLC),/Images/Affinity/agrarian_affinity.png,Agrarian,+5 Influence per Workers,/Images/Emblematic District/Industrial/hawaiians_district.png,Loko Kuapa,"+1 Food per adjacent Coastal Water
++15 Food per adjacent Ocean
+-10 Stability",/Images/Emblematic Units/Industrial/hawaiians_unit.png,Koa Warriors,"Gunner Ranged-combat Unit
+Bonus Combat Strength (+8) against damaged targets"
+Italians,/Images/Affinity/aesthete_affinity.png,Aesthete,"+10 Stability on Commons Quarter
++1 Influence on Commons Quarter
+-50% on Commons Quarter Industry cost",/Images/Emblematic District/Industrial/italians_district.png,Teatro,"+1 Influence per Traders
++1 Influence per Researchers
++1 Influence
++2 Influence per adjacent Commons Quarter
++5 Stability",/Images/Emblematic Units/Industrial/italians_unit.png,Alpini,"Gunner Ranged-combat Unit
+Can cross cliffs"
+Mexicans,/Images/Affinity/agrarian_affinity.png,Agrarian,+10% Food on all Cities,/Images/Emblematic District/Industrial/mexicans_district.png,Hacienda,"+1 Food
++3 Food per adjacent Farmers Quarter
++1 Food on Tile producing Food
+-10 Stability
++1 Farmers Slot on City or Outpost",/Images/Emblematic Units/Industrial/mexicans_unit.png,Soldaderas,"Gunner Ranged-combat Unit
+Able to enter any foreign Territory and remain Concealed as long as they have any Stealth
+Able to remain hidden in Battle even after attacking, unless adjacent to an enemy Unit"
+Persians,/Images/Affinity/builder_affinity.png,Builder,"-10% on Shared Project Industry cost
+-25% on Constructibles Industry cost",/Images/Emblematic District/Industrial/persians_district.png,Caravanserai,"+1 Money per number of Trade Routes
++5 Money
++5 Industry
+-10 Stability
++3 Money per adjacent Market Quarter
++1 Traders Slot on City or Outpost",/Images/Emblematic Units/Industrial/persians_unit.png,Jazayerchis,"Gunner Ranged-combat Unit
+Stronger (+5) when attacking"
+Russians,/Images/Affinity/expansion_affinity.png,Expansionist,"+10 Fortification on City or Outpost
+-25% on Create Outpost cost
+-25% on Attach Outpost cost
+-25% on Absorb City cost",/Images/Emblematic District/Industrial/russians_district.png,Sobor,"+3 Influence
++5 Stability
+Per adjacent District
+   +5 Faith
+   +3 Influence",/Images/Emblematic Units/Industrial/russians_unit.png,Cossacks,"Gunner Ranged-combat Unit
+Can move until all Movement Points are depleted, ignoring zones of control"
+Scots (DLC),/Images/Affinity/diplomatic_affinity.png,Diplomatic,"10% Science cost reduction on any Technology per other Empire that has already researched it
++3% Science per active Agreement",/Images/Emblematic District/Industrial/scots_district.png,College,"-10 Stability
++3 Science
++2 Science on Research Quarter
++2 Influence on religious District",/Images/Emblematic Units/Industrial/scots_unit.png,Highlanders,"Gunner Ranged-combat Unit
+Bonus Combat Strength (+?) when moving next to their target before attacking
+Ignores all terrain movement penalties during a charge"
+Siamese,/Images/Affinity/builder_affinity.png,Builder,"+3 Industry per District on all Cities
++1 Money generated from on-going Trade on all Cities",/Images/Emblematic District/Industrial/siamese_district.png,Floating Market,"+1 Money per Population
++5 Industry
++3 Money per adjacent Market Quarter
+-10 Stability",/Images/Emblematic Units/Industrial/siamese_unit.png,Gatling Elephant,"Gunner Ranged-combat Unit
+The targeted Unit cannot move next turn"
+Zulu,/Images/Affinity/militarist_affinity.png,Militarist,"+50% Health regeneration on Unit
++2 Combat Strength on Supplied Units",/Images/Emblematic District/Industrial/zulu_district.png,Warrior's Izindlu,"Allows construction of new Districts on adjacent Tiles
++4 Combat Strength in combat for Units in or adjacent to the District.
++5 Stability
++25 Experience on creating Units on City or Outpost",/Images/Emblematic Units/Industrial/zulu_unit.png,Impi,"Melee Close-combat Unit
+Bonus Combat Strength (+8) when attacking stronger Units"
