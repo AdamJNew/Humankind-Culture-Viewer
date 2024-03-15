@@ -42,10 +42,10 @@ header {
 .active-tab {
             color: blue; /* Change to your desired active tab color */
 }
-#development {
+#Support {
     display: flex;
 	padding: 10px;
-	background-color: #BC393B;
+	background-color: #179832;
     justify-content: center;
     text-decoration: none;
 	color: #fff; /* White text */
